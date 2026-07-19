@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Casa in Liguria — Immobilien-Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+
+<!--
+  ANWEISUNG FÜR DIE ROUTINE (Claude Cloud-Task):
+  Bearbeite AUSSCHLIESSLICH die Arrays/Objekte `listings`, `meta` und
+  `townCoords` weiter unten im <script>-Bereich. Ändere NICHTS an
+  HTML-Struktur, CSS oder der Render-/Karten-Logik (renderDashboard,
+  renderMap). Jedes Listing braucht:
+  id, title, town, price, sqm, plotSqm, condition, url, photo, note, isNew.
+  Optional: lat, lng für die exakte Position (falls aus dem Inserat
+  bekannt) — sonst wird automatisch der Ortsmittelpunkt aus townCoords
+  verwendet. Ist ein Ort noch nicht in townCoords enthalten, ergänze ihn
+  dort mit den korrekten Koordinaten (WGS84).
+  Setze isNew:true nur für Objekte, die seit dem letzten Lauf neu
+  hinzugekommen sind (Abgleich über id gegen listings.json im Repo).
+-->
+
+<style>
+  :root {
+    --bg: #FAF3E8;
+    --ink: #2B2420;
+    --ink-soft: #6B5F52;
+    --sea: #1F5F6B;
+    --sea-deep: #143F47;
+    --stamp: #C1432E;
+    --olive: #74804A;
+    --sun: #E3A94B;
+    --card: #FFFDF8;
+    --line: #E4D9C7;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 32px 20px 64px; }
+
+  header.top {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding-bottom: 22px;
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 22px;
+  }
+
+  header.top h1 {
+    font-family: 'Fraunces', serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: clamp(28px, 5vw, 42px);
+    margin: 0;
+    letter-spacing: -0.01em;
+    color: var(--sea-deep);
+  }
+
+  header.top .sub {
+    font-size: 14px;
+    color: var(--ink-soft);
+  }
+
+  .stat-strip {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin-top: 14px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12.5px;
+  }
+
+  .stat-strip span {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 5px 10px;
+    color: var(--ink-soft);
+  }
+
+  .stat-strip b { color: var(--sea-deep); }
+
+  section.map-section { margin-bottom: 34px; }
+
+  section.map-section .label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 10px;
+    display: block;
+  }
+
+  #map {
+    height: 320px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid var(--line);
+    background: var(--line);
+  }
+
+  .pin {
+    width: 16px;
+    height: 16px;
+    border-radius: 50% 50% 50% 0;
+    transform: rotate(-45deg);
+    border: 2px solid #FFFDF8;
+    box-shadow: 0 1px 4px rgba(20,63,71,0.35);
+  }
+
+  .pin.pin-sea { background: var(--sea); }
+  .pin.pin-new { background: var(--stamp); }
+
+  .map-popup {
+    font-family: 'Inter', sans-serif;
+  }
+
+  .map-popup .mp-town {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    text-transform: uppercase;
+    color: var(--olive);
+  }
+
+  .map-popup .mp-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin: 2px 0 4px;
+    color: var(--ink);
+  }
+
+  .map-popup .mp-price {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--sea-deep);
+    margin-bottom: 4px;
+  }
+
+  .map-popup a {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--sea);
+    text-decoration: none;
+    border-bottom: 1.5px solid var(--sun);
+  }
+
+  section.new-section { margin-bottom: 38px; }
+
+  section.new-section .label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--stamp);
+    margin-bottom: 10px;
+    display: block;
+  }
+
+  .new-grid, .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 20px;
+  }
+
+  .card {
+    position: relative;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+  }
+
+  .card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(20,63,71,0.10); }
+
+  .card.is-new { border-color: var(--stamp); }
+
+  .stamp {
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    z-index: 2;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--stamp);
+    border: 1.5px solid var(--stamp);
+    border-radius: 3px;
+    padding: 3px 8px;
+    transform: rotate(-6deg);
+    background: rgba(255,253,248,0.9);
+    text-transform: uppercase;
+  }
+
+  .photo {
+    aspect-ratio: 4/3;
+    background: var(--line) center/cover no-repeat;
+    position: relative;
+  }
+
+  .photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+  .body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+
+  .town {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--olive);
+  }
+
+  .title {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.25;
+    margin: 0;
+    color: var(--ink);
+  }
+
+  .price {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: 22px;
+    color: var(--sea-deep);
+  }
+
+  .meta-chips { display: flex; gap: 6px; flex-wrap: wrap; }
+
+  .meta-chips span {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 3px 7px;
+    color: var(--ink-soft);
+  }
+
+  .note {
+    font-size: 13px;
+    color: var(--ink-soft);
+    line-height: 1.45;
+    margin: 2px 0 4px;
+  }
+
+  .link-btn {
+    margin-top: auto;
+    align-self: flex-start;
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--sea);
+    text-decoration: none;
+    border-bottom: 1.5px solid var(--sun);
+    padding-bottom: 1px;
+  }
+
+  .link-btn:hover { color: var(--sea-deep); }
+
+  section.all-section { margin-top: 8px; }
+
+  section.all-section .label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 10px;
+    display: block;
+  }
+
+  footer {
+    margin-top: 46px;
+    padding-top: 18px;
+    border-top: 1px solid var(--line);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11.5px;
+    color: var(--ink-soft);
+  }
+
+  .empty {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color: var(--ink-soft);
+    padding: 18px;
+    border: 1px dashed var(--line);
+    border-radius: 8px;
+  }
+
+  @media (max-width: 480px) {
+    .new-grid, .grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header class="top">
+    <h1>Casa in Liguria</h1>
+    <div class="sub">Ferienhaus-Suche · Provincia di Imperia — Camporosso, Bordighera, Ventimiglia, Dolceacqua</div>
+    <div class="stat-strip" id="statStrip"></div>
+  </header>
+
+  <section class="map-section">
+    <span class="label">Karte — schnelle Orientierung</span>
+    <div id="map"></div>
+  </section>
+
+  <section class="new-section" id="newSection" style="display:none;">
+    <span class="label">Neu seit letztem Mal</span>
+    <div class="new-grid" id="newGrid"></div>
+  </section>
+
+  <section class="all-section">
+    <span class="label">Alle Objekte</span>
+    <div class="grid" id="allGrid"></div>
+  </section>
+
+  <footer id="footerNote"></footer>
+</div>
+
+<script>
+  // ── Von der Routine bei jedem Lauf zu aktualisieren ──────────────────
+  const meta = {
+    lastUpdated: "18.07.2026",
+    nextUpdate: "01.08.2026",
+    priceRangeNote: "150.000 € – 350.000 €"
+  };
+
+  // Ortsmittelpunkte als Fallback, falls ein Listing kein eigenes lat/lng hat.
+  // Die Routine darf hier neue Orte ergänzen, falls in einem Inserat ein
+  // noch nicht gelisteter Ort auftaucht.
+  const townCoords = {
+    "Camporosso": [43.8095, 7.6206],
+    "Dolceacqua": [43.8508, 7.6167],
+    "Bordighera": [43.7789, 7.6650],
+    "Ventimiglia": [43.7903, 7.6083],
+    "Rocchetta Nervina": [43.8797, 7.6183]
+  };
+
+  const listings = [
+    {
+      id: "camporosso-stein-01",
+      title: "Rustico mit Meerblick",
+      town: "Camporosso",
+      lat: 43.8102, lng: 7.6188,
+      price: "€ 265.000",
+      sqm: "95 m²",
+      plotSqm: "1.200 m² Grundstück",
+      condition: "Renovierungsbedürftig",
+      url: "https://example.com/inserat-1",
+      photo: "",
+      note: "Steinhaus am Hang, Terrassen-Grundstück mit Olivenbäumen, Zufahrt eng.",
+      isNew: true
+    },
+    {
+      id: "dolceacqua-borgo-02",
+      title: "Borgohaus nahe Zentrum",
+      town: "Dolceacqua",
+      price: "€ 189.000",
+      sqm: "72 m²",
+      plotSqm: "kein eigenes Grundstück",
+      condition: "Teilrenoviert",
+      url: "https://example.com/inserat-2",
+      photo: "",
+      note: "Fußläufig zur Burg, historische Bausubstanz, wenig Parkplätze in der Nähe.",
+      isNew: true
+    },
+    {
+      id: "bordighera-villa-03",
+      title: "Kleine Villa mit Garten",
+      town: "Bordighera",
+      price: "€ 340.000",
+      sqm: "110 m²",
+      plotSqm: "600 m² Grundstück",
+      condition: "Guter Zustand",
+      url: "https://example.com/inserat-3",
+      photo: "",
+      note: "Ruhige Lage, 10 Min. zum Strand, Preis/m² über Regionsschnitt.",
+      isNew: false
+    }
+  ];
+  // ──────────────────────────────────────────────────────────────────────
+
+  function card(item) {
+    const stamp = item.isNew ? `<span class="stamp">Nuovo</span>` : "";
+    const photoContent = item.photo
+      ? `<img src="${item.photo}" alt="${item.title}">`
+      : "";
+    return `
+      <article class="card ${item.isNew ? "is-new" : ""}">
+        ${stamp}
+        <div class="photo">${photoContent}</div>
+        <div class="body">
+          <span class="town">${item.town}</span>
+          <h3 class="title">${item.title}</h3>
+          <div class="price">${item.price}</div>
+          <div class="meta-chips">
+            <span>${item.sqm}</span>
+            <span>${item.plotSqm}</span>
+            <span>${item.condition}</span>
+          </div>
+          <p class="note">${item.note}</p>
+          <a class="link-btn" href="${item.url}" target="_blank" rel="noopener">Zum Inserat →</a>
+        </div>
+      </article>`;
+  }
+
+  function renderDashboard() {
+    const newOnes = listings.filter(l => l.isNew);
+    const total = listings.length;
+
+    document.getElementById("statStrip").innerHTML = `
+      <span>Aktualisiert: <b>${meta.lastUpdated}</b></span>
+      <span>Objekte gesamt: <b>${total}</b></span>
+      <span>Neu: <b>${newOnes.length}</b></span>
+      <span>Preisrahmen: <b>${meta.priceRangeNote}</b></span>
+    `;
+
+    if (newOnes.length > 0) {
+      document.getElementById("newSection").style.display = "";
+      document.getElementById("newGrid").innerHTML = newOnes.map(card).join("");
+    }
+
+    const allGrid = document.getElementById("allGrid");
+    allGrid.innerHTML = total
+      ? listings.map(card).join("")
+      : `<div class="empty">Aktuell keine passenden Objekte gefunden.</div>`;
+
+    document.getElementById("footerNote").textContent =
+      `Nächste Aktualisierung: ${meta.nextUpdate} · Automatisch erstellt von der Claude Code Routine`;
+  }
+
+  function coordsFor(item) {
+    if (item.lat && item.lng) return [item.lat, item.lng];
+    if (townCoords[item.town]) return townCoords[item.town];
+    return null;
+  }
+
+  function renderMap() {
+    const points = listings.map(coordsFor).filter(Boolean);
+    if (points.length === 0) return;
+
+    const map = L.map('map', { scrollWheelZoom: false });
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap',
+      maxZoom: 18
+    }).addTo(map);
+
+    const markers = [];
+    listings.forEach(item => {
+      const pos = coordsFor(item);
+      if (!pos) return;
+
+      const icon = L.divIcon({
+        className: '',
+        html: `<div class="pin ${item.isNew ? 'pin-new' : 'pin-sea'}"></div>`,
+        iconSize: [16, 16],
+        iconAnchor: [8, 16]
+      });
+
+      const popupHtml = `
+        <div class="map-popup">
+          <div class="mp-town">${item.town}</div>
+          <div class="mp-title">${item.title}</div>
+          <div class="mp-price">${item.price}</div>
+          <a href="${item.url}" target="_blank" rel="noopener">Zum Inserat →</a>
+        </div>`;
+
+      const marker = L.marker(pos, { icon }).addTo(map).bindPopup(popupHtml);
+      markers.push(marker);
+    });
+
+    if (points.length === 1) {
+      map.setView(points[0], 13);
+    } else {
+      map.fitBounds(L.latLngBounds(points), { padding: [30, 30] });
+    }
+  }
+
+  renderDashboard();
+  renderMap();
+</script>
+
+</body>
+</html>
