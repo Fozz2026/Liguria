@@ -452,7 +452,7 @@
     "url": "https://www.dussaica.com/casa-indipendente-in-vendita-a-isolabona_2531843.html",
     "photo": "",
     "note": "2 Schlafzimmer. Zweistöckiges Haus mit zwei separaten Wohneinheiten/Eingängen zwischen Dolceacqua und Isolabona, großzügiges Terrassengrundstück, Privatparkplatz für ca. 6 Autos, nahe einem Fluss mit natürlichen Wasserbecken.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "vallecrosia-concaverde-37",
@@ -465,7 +465,7 @@
     "url": "https://www.agenzia-domus.com/it/property/ag-dom-5232-villa-con-giardino-privato-in-vendita-a-vallecrosia/",
     "photo": "",
     "note": "5 Schlafzimmer (4 im OG + 1 kleines im EG). Unabhängige Villa im Gebiet Conca Verde zwischen Vallecrosia und Bordighera, Rundum-Belichtung, Balkon mit Meerblick, Garage/Keller im UG.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "ventimiglia-varase-38",
@@ -478,7 +478,7 @@
     "url": "https://www.agenzia-domus.com/it/property/ag-dom-f155-vendesi-casa-indipendente-con-giardino-a-ventimiglia-localita-varase/",
     "photo": "",
     "note": "3 Schlafzimmer. Freistehende Villa im Ortsteil Varase, rundum von Obstgärten umgeben, natürliche Wärmedämmung, Holz- und Solarheizung, nahe Reitanlage; laut Makler auch für B&B-Umnutzung geeignet.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "perinaldo-steinhaus-panorama-39",
@@ -491,7 +491,7 @@
     "url": "https://www.terra-italia.com/property/perinaldo-elegant-natural-stone-house-with-panoramic-terrace/",
     "photo": "",
     "note": "2–3 Schlafzimmer. Freistehendes Natursteinhaus am Dorfrand auf ca. 580 m Höhe, Panoramablick bis zu den Alpen, Wärmepumpe + Photovoltaik, 24 m² Panoramaterrasse.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "dolceacqua-landhaus-panorama-40",
@@ -504,7 +504,7 @@
     "url": "https://www.terra-italia.com/property/dolceacqua-country-house-with-panoramic-views/",
     "photo": "",
     "note": "2 Schlafzimmer. Traditionelles ligurisches Haus mit terrassierten Olivenhainen, Meerblick, Kamin, 22 m² Terrasse.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-artallo-meerblick-41",
@@ -517,7 +517,7 @@
     "url": "https://www.terra-italia.com/property/artallo-imperia-villa-with-sea-views-for-sale/",
     "photo": "",
     "note": "2 Schlafzimmer. Panoramameerblick über Porto Maurizio (Ortsteil Artallo), Photovoltaik, Holzofen, ruhige Wohnlage nahe Olivenhainen.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "seborga-villa-aaron-42",
@@ -530,7 +530,7 @@
     "url": "https://www.terra-italia.com/property/seborga-villa-with-sea-view-for-sale/",
     "photo": "",
     "note": "3 Schlafzimmer. Lage auf 390 m Höhe im „Fürstentum“ Seborga, 32 Olivenbäume, 360°-Dachterrasse, Photovoltaikanlage.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "dolceacqua-frantoio-antico-43",
@@ -543,7 +543,7 @@
     "url": "https://www.terra-italia.com/property/dolceacqua-former-oil-mill-for-sale/",
     "photo": "",
     "note": "3 Schlafzimmer. Umgebaute historische Steinmühle über fünf Ebenen mit 3 unabhängigen Einheiten, 5 m hohe Gewölbedecke mit Empore, Fluss- und Hügelblick, Pelletheizung.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "dianoarentino-dm980-44",
@@ -556,7 +556,7 @@
     "url": "https://www.terra-italia.com/property/mediterranean-villa-for-sale-in-diano-arentino/",
     "photo": "",
     "note": "4 Schlafzimmer (Beschreibung nennt teils nur 3 Ensuite-Schlafzimmer – kleine Abweichung im Inserat). Hanglage auf 430 m Höhe mit Blick auf die Bucht von Diano Marina, 30 Olivenbäume, Pizzaofen.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "perinaldo-villa-pool-45",
@@ -569,7 +569,7 @@
     "url": "https://www.terra-italia.com/property/villa-for-sale-in-perinaldo/",
     "photo": "",
     "note": "3 Schlafzimmer. Südausrichtung, 10×3 m Pool, Fußbodenheizung, Solarwarmwasser.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "pigna-villa-dorfnah-46",
@@ -582,7 +582,7 @@
     "url": "https://www.terra-italia.com/property/villa-for-sale-in-pigna/",
     "photo": "",
     "note": "3 Schlafzimmer. Rustikales Interieur aus Naturstein und Terrakotta, 42 m² Terrasse mit Grill/Pizzaofen, nahe dem mittelalterlichen Dorfkern.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "vallecrosia-villa-meerblick-47",
@@ -595,7 +595,7 @@
     "url": "https://www.terra-italia.com/property/vallecrosia-villa-with-sea-views-for-sale/",
     "photo": "",
     "note": "3 Schlafzimmer. Südwest-Ausrichtung, Meerblick, Lagerfläche im EG ausbaubar oder abtrennbar.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "dolceacqua-weinberg-meerblick-48",
@@ -608,7 +608,7 @@
     "url": "https://www.terra-italia.com/property/dolceacqua-country-house-with-sea-views-for-sale/",
     "photo": "",
     "note": "2 Schlafzimmer. Landhaus mit Blick auf das mittelalterliche Dolceacqua und die Meeralpen, eigener Rossese-di-Dolceacqua-Weinberg, Obstgärten, ca. 15 Min. bis Ventimiglia.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-torrazza-frantoio-49",
@@ -621,7 +621,7 @@
     "url": "https://www.engelvoelkers.com/it/it/exposes/e1701944-111c-56a2-9f85-bb06213d76b7",
     "photo": "",
     "note": "3 Schlafzimmer. Ehemalige Ölmühle im Ortsteil Torrazza mit erhaltenem Mahlstein/Presse im EG, Dachterrasse mit Meerblick, Weinkeller, unabhängige Wohneinheit – Rustico mit Modernisierungsbedarf.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-poggi-turmhaus-50",
@@ -634,7 +634,7 @@
     "url": "https://www.engelvoelkers.com/it/it/exposes/74d71d5c-e907-5521-ba33-737a9d870e43",
     "photo": "",
     "note": "2 Schlafzimmer. Restauriertes mittelalterliches Turmhaus im Ortsteil Poggi mit Ziegelgewölben und Steinmauern, korkgedämmtes Dach, Terrasse mit Meerblick über Olivenhaine Richtung Porto Maurizio.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "dolcedo-isolalunga-pool-51",
@@ -647,7 +647,7 @@
     "url": "https://www.engelvoelkers.com/it/it/exposes/4612200c-aa78-544b-9853-b0642b9209ca",
     "photo": "",
     "note": "4 Schlafzimmer. Steinlandhaus über vier Ebenen im Ortsteil Isolalunga mit gewölbtem Billardzimmer aus Stein, Infinity-Pool auf der oberen Terrasse, separates Steingästehaus, terrassierte Gärten; laut Makler auch für B&B geeignet.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "cervo-doppelhaus-meerblick-52",
@@ -660,7 +660,7 @@
     "url": "https://www.engelvoelkers.com/it/en/exposes/c52cfd57-d4de-5b69-ab90-9be8c0f126d9",
     "photo": "",
     "note": "4 Schlafzimmer. Doppelhaushälfte über zwei Ebenen im Grünen, Balkon mit Meerblick, eigener Brunnen, Garage, Garten, ca. 1,5 km bis zu Geschäften und Strand.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "sanremo-garten-meerblick-53",
@@ -673,7 +673,7 @@
     "url": "https://www.engelvoelkers.com/it/en/exposes/09806960-8be6-55dc-8424-458acd245c3e",
     "photo": "",
     "note": "4 Schlafzimmer. Zweistöckiges Objekt (zwei kombinierbare Wohnungen), Garten mit Zitrusbäumen, 3 Parkplätze, wenige Gehminuten zum Meer. Kleines Grundstück – eher Stadthaus als Rustico.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "sanbartolomeo-pairola-54",
@@ -686,7 +686,7 @@
     "url": "https://www.engelvoelkers.com/it/it/exposes/e3aeb0da-c9a3-5d24-b0d3-5ab2722d42fe",
     "photo": "",
     "note": "3 Schlafzimmer. Erdgeschosswohnung einer Doppelhaushälfte im Ortsteil Pairola, offener Wohn-/Essbereich mit Kamin, Parkplätze für 5–6 Autos.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "dolceacqua-viaprovinciale-55",
@@ -699,7 +699,7 @@
     "url": "https://www.attico.it/immobile-casa+indipendente-liguria-dolceacqua-49474757/",
     "photo": "",
     "note": "3 Schlafzimmer. Ländliches Haus über drei Ebenen an einer Privatstraße, Kamin-Wohnzimmer, eigene Wasserquelle mit Bewässerungstanks, großer Keller (128 m²) mit Erweiterungspotenzial – „umgeben von Grün, ohne Nachbarn“.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "camporosso-ciaixe-56",
@@ -712,7 +712,7 @@
     "url": "https://www.attico.it/immobile-villa-liguria-camporosso-53633631/",
     "photo": "",
     "note": "2 Schlafzimmer. Offener Wohn-/Küchenbereich, Panorama-Meerblick, Solarpaneele, Holzkamin, privater terrassierter Garten.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "camporosso-olandesi-57",
@@ -725,7 +725,7 @@
     "url": "https://www.attico.it/immobile-villa-liguria-camporosso-54185930/",
     "photo": "",
     "note": "3 Schlafzimmer (Hauptschlafzimmer mit Bad en suite + 2 weitere). Panoramablick über Hügel bis zum Meer, Olivenbäume und Blumenbeete, Außenküche/Grill, 2 überdachte Stellplätze.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "ventimiglia-verrandi-58",
@@ -738,7 +738,7 @@
     "url": "https://www.attico.it/immobile-villa-liguria-ventimiglia-54358717/",
     "photo": "",
     "note": "Mind. 2 Schlafzimmer laut Inserat, Beschreibung deutet auf ein weiteres Zimmer hin. Pool mit Sommerküche/Grill, Photovoltaikanlage, Videoüberwachung, Tallage mit Ausblick.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "dianoarentino-borello-59",
@@ -751,7 +751,7 @@
     "url": "https://www.attico.it/immobile-villa-liguria-diano%20arentino-53700481/",
     "photo": "",
     "note": "3 Schlafzimmer (auf zwei Wohneinheiten verteilt). Zweifamilienvilla inmitten von Olivenhainen (Taggiasca-Oliven), Panoramaterrassen mit Blick Richtung Diano Borganzo, 2 Stellplätze. Auch auf casa.it gelistet.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "dianomarina-lallina-60",
@@ -764,7 +764,7 @@
     "url": "https://www.attico.it/immobile-villa-liguria-diano%20marina-51616105/",
     "photo": "",
     "note": "2 Schlafzimmer (beide mit eigenem Bad). Terrasse mit Meerblick, Photovoltaik mit Batteriespeicher, zusätzliches 180 m² Lager-/Nebengebäude mit Ausbaupotenzial.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "isolabona-bach-whirlpool-61",
@@ -777,7 +777,7 @@
     "url": "https://www.attico.it/immobile-villa-liguria-isolabona-53187430/",
     "photo": "",
     "note": "2 Schlafzimmer. Natürlicher Bach und zwei Bewässerungsbecken auf dem Grundstück (zwischen Dolceacqua und Isolabona), Bad mit Whirlwanne, große halbfertige Keller-/Tavernaflächen (ca. 200 m²) mit Ausbaupotenzial.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-torrazza-ronchi-62",
@@ -790,7 +790,7 @@
     "url": "https://www.attico.it/immobile-villa-liguria-imperia-54469486/",
     "photo": "",
     "note": "3 Schlafzimmer. Zwei separate Zufahrten/Eingänge im Ortsteil Torrazza (für Zweifamiliennutzung geeignet), Kamin-Wohnzimmer, Garage mit 2 Boxen + 4 Außenstellplätzen.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "dolcedo-bellissimi-stein-63",
@@ -803,7 +803,7 @@
     "url": "https://www.attico.it/immobile-casa+indipendente-liguria-dolcedo-53525738/",
     "photo": "",
     "note": "2–3 Schlafzimmer (Angaben je nach Quelle leicht abweichend, zusätzlicher Schlafbereich im OG). Historisches ligurisches Steinhaus mit Gewölbedecken, Schieferdetails, Weinkeller, ummauertem Garten mit Brunnen, Panoramaloggia mit Meerblick.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "costarainera-storico-64",
@@ -816,7 +816,7 @@
     "url": "https://www.casa.it/immobili/53567065/",
     "photo": "",
     "note": "3 Schlafzimmer (jeweils mit eigenem Bad). Steinhaus im historischen Ortskern, Gewölbedecken, Natursteinmauern, Panoramaterrasse, möbliert verkauft.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "sanremo-coldirodi-65",
@@ -829,7 +829,7 @@
     "url": "https://www.casa.it/immobili/46255957/",
     "photo": "",
     "note": "2 Schlafzimmer + Arbeitszimmer. Moderne eingeschossige Villa mit Meerblick, blühender Garten mit Pool-Potenzial, private Zufahrt mit Tor.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "camporosso-sangiacomo-66",
@@ -842,7 +842,7 @@
     "url": "https://www.casa.it/immobili/52746348/",
     "photo": "",
     "note": "4 Schlafzimmer. Hanglage im Ortsteil San Giacomo mit Meerblick, Terrassen über vier Ebenen, Raum zur individuellen Gestaltung.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "ventimiglia-sealza-67",
@@ -855,7 +855,7 @@
     "url": "https://www.casa.it/immobili/53981338/",
     "photo": "",
     "note": "2 Schlafzimmer. Freistehende Villa mit Meerblick, gute Sonnenausrichtung.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "bordighera-mameli-68",
@@ -868,7 +868,7 @@
     "url": "https://www.casa.it/immobili/53910037/",
     "photo": "",
     "note": "5 Schlafzimmer. Villa in sonniger erster Hügellage, teilbar in zwei Wohnungen, Tavernaraum, Garage.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "dolceacqua-ausbau-69",
@@ -881,6 +881,981 @@
     "url": "https://www.casa.it/immobili/54371681/",
     "photo": "",
     "note": "3 Schlafzimmer. Unabhängiges Haus mit privatem Garten inkl. Sommerküche/Grill, zwei weitere unfertige Kellereinheiten mit Ausbaupotenzial.",
+    "isNew": false
+  },
+  {
+    "id": "diano-marina-villa-giardino-70",
+    "title": "Einfamilienvilla mit Garten in Diano Marina, Centro",
+    "town": "Diano Marina",
+    "price": "€ 580.000",
+    "sqm": "173 m²",
+    "plotSqm": "Garten vorhanden, Größe nicht angegeben",
+    "condition": "Ausgezeichneter Zustand (Baujahr 2012)",
+    "url": "https://www.immobiliare.it/annunci/127545920/",
+    "photo": "https://pwm.im-cdn.it/image/1886989544/cover-m-c.jpg",
+    "note": "3 Schlafzimmer, privater Garten mit zwei Terrassen, Fotovoltaikanlage, teilweise möbliert. Sehr guter, bezugsfertiger Zustand.",
+    "isNew": true
+  },
+  {
+    "id": "diano-marina-villa-ristrutturare-71",
+    "title": "Einfamilienvilla mit großem Garten in Diano Marina, Centro",
+    "town": "Diano Marina",
+    "price": "€ 680.000",
+    "sqm": "260 m²",
+    "plotSqm": "1.500 m² Grundstück",
+    "condition": "Renovierungsbedürftig",
+    "url": "https://www.immobiliare.it/annunci/124702689/",
+    "photo": "https://pwm.im-cdn.it/image/1819132581/cover-m-c.jpg",
+    "note": "4 Schlafzimmer, weitläufiger Garten mit alten Palmen und Springbrunnen, Meerblick. Sanierungsbedarf, aber viel Potenzial.",
+    "isNew": true
+  },
+  {
+    "id": "imperia-villa-liberty-72",
+    "title": "Zweifamilienvilla im Liberty-Stil in Porto Maurizio, Imperia",
+    "town": "Imperia",
+    "price": "€ 385.000",
+    "sqm": "140 m²",
+    "plotSqm": "Zwei große Terrassen, kein Grundstück in m² angegeben",
+    "condition": "Guter Zustand",
+    "url": "https://www.immobiliare.it/annunci/131480630/",
+    "photo": "https://pwm.im-cdn.it/image/1982186576/cover-m-c.jpg",
+    "note": "Lage: Porto Maurizio. 3 Schlafzimmer, Jugendstil-Villa mit originalen Details, unabhängige Einliegerwohnung im Untergeschoss.",
+    "isNew": true
+  },
+  {
+    "id": "dolceacqua-landhaus-pool-73",
+    "title": "Renoviertes Landhaus mit Pool in Dolceacqua",
+    "town": "Dolceacqua",
+    "price": "€ 345.000",
+    "sqm": "116 m²",
+    "plotSqm": "ca. 3.000 m² landwirtschaftliche Fläche",
+    "condition": "Kernsaniert (2014), ausgezeichneter Zustand",
+    "url": "https://www.immobiliare.it/annunci/129566794/",
+    "photo": "https://pwm.im-cdn.it/image/1945661030/cover-m-c.jpg",
+    "note": "2 Schlafzimmer, komplett saniert, Pool, Terrasse, elektrisches Tor. Gepflegtes Anwesen mit landwirtschaftlicher Fläche.",
+    "isNew": true
+  },
+  {
+    "id": "santo-stefano-villa-terreno-74",
+    "title": "Villa mit landwirtschaftlicher Fläche in Santo Stefano al Mare",
+    "town": "Santo Stefano al Mare",
+    "price": "€ 580.000",
+    "sqm": "230 m²",
+    "plotSqm": "Landwirtschaftliche Fläche, Größe nicht angegeben",
+    "condition": "Sehr guter Pflegezustand (Baujahr 1999)",
+    "url": "https://www.immobiliare.it/annunci/131204918/",
+    "photo": "https://pwm.im-cdn.it/image/1975368720/cover-m-c.jpg",
+    "note": "3 Schlafzimmer, Panoramaterrasse mit Meerblick, Lagerraum, nur 1,7 km bis zum Meer.",
+    "isNew": true
+  },
+  {
+    "id": "bordighera-villa-pool-75",
+    "title": "Exklusive Meerblick-Villa mit Pool in Bordighera",
+    "town": "Bordighera",
+    "price": "€ 890.000",
+    "sqm": "300 m²",
+    "plotSqm": "356 m² Grundstück",
+    "condition": "Sehr guter Zustand",
+    "url": "https://www.immobiliare.it/annunci/125375939/",
+    "photo": "",
+    "note": "4 Schlafzimmer, Pool mit Meerblick, Garage, hochwertige Ausstattung in der Bucht Baia Verde.",
+    "isNew": true
+  },
+  {
+    "id": "imperia-torrazza-villa-pool-76",
+    "title": "Villa mit Pool und Olivenbäumen in Torrazza, Imperia",
+    "town": "Imperia",
+    "price": "€ 780.000",
+    "sqm": "220 m²",
+    "plotSqm": "2.800 m² Grundstück",
+    "condition": "Sehr gepflegt, hochwertig ausgestattet",
+    "url": "https://www.immobiliare.it/annunci/131302730/",
+    "photo": "https://pwm.im-cdn.it/image/1977814428/cover-m-c.jpg",
+    "note": "Lage: Torrazza. 4 Schlafzimmer, Pool, Olivenbäume, Solaranlage, ca. 4 km bis zum Meer.",
+    "isNew": true
+  },
+  {
+    "id": "san-bartolomeo-bifamiliare-77",
+    "title": "Zweifamilienhaus mit Terrasse in San Bartolomeo al Mare",
+    "town": "San Bartolomeo al Mare",
+    "price": "€ 340.000",
+    "sqm": "170 m²",
+    "plotSqm": "Keine Angabe (Terrasse vorhanden)",
+    "condition": "Sehr guter Zustand, 2005 komplett saniert",
+    "url": "https://www.immobiliare.it/annunci/128739190/",
+    "photo": "",
+    "note": "6 Schlafzimmer verteilt auf zwei Wohneinheiten, barrierefrei, auch als Kapitalanlage geeignet.",
+    "isNew": true
+  },
+  {
+    "id": "imperia-poggi-villa-pool-78",
+    "title": "Einstöckige Villa mit großem Grundstück und Pool bei Imperia",
+    "town": "Imperia",
+    "price": "€ 380.000",
+    "sqm": "104 m²",
+    "plotSqm": "5.300 m² Grundstück",
+    "condition": "Vor rund zehn Jahren renoviert, guter Zustand",
+    "url": "https://www.immobiliare.it/annunci/129839280/",
+    "photo": "",
+    "note": "Lage: Poggi/Civezza. 2 Schlafzimmer, Pool, zusätzliches renovierungsbedürftiges Nebengebäude (50 m²), Hügellage 5 km vom Meer.",
+    "isNew": true
+  },
+  {
+    "id": "castellaro-villa-mehrfamilien-79",
+    "title": "Große Villa mit mehreren Wohneinheiten in Castellaro",
+    "town": "Castellaro",
+    "price": "€ 590.000",
+    "sqm": "251 m²",
+    "plotSqm": "Mediterraner Garten mit Solarium, keine m²-Angabe",
+    "condition": "Guter Zustand, Baujahr 2000",
+    "url": "https://www.immobiliare.it/annunci/115591253/",
+    "photo": "https://pwm.im-cdn.it/image/1618851493/cover-m-c.jpg",
+    "note": "Aktuell in mehrere unabhängige Einheiten unterteilt (insgesamt ca. 12 Zimmer), Umbau zu Einfamilienhaus möglich, separates Gästehaus.",
+    "isNew": true
+  },
+  {
+    "id": "ventimiglia-roverino-villa-80",
+    "title": "Villa mit Grundstück und Obstbäumen in Ventimiglia",
+    "town": "Ventimiglia",
+    "price": "€ 420.000",
+    "sqm": "135 m²",
+    "plotSqm": "ca. 2.000 m² Grundstück",
+    "condition": "Guter Zustand",
+    "url": "https://www.immobiliare.it/annunci/128302314/",
+    "photo": "https://pwm.im-cdn.it/image/1905435886/cover-m-c.jpg",
+    "note": "Lage: Roverino/San Secondo. 6 Schlafzimmer, Obstbäume, mehrere Stellplätze, mehrstöckige Villa mit Mansarde.",
+    "isNew": true
+  },
+  {
+    "id": "ventimiglia-seglia-villa-81",
+    "title": "Zweifamilienvilla mit großem Grundstück in Ventimiglia",
+    "town": "Ventimiglia",
+    "price": "€ 690.000",
+    "sqm": "288 m²",
+    "plotSqm": "ca. 3.500 m² Grundstück",
+    "condition": "Guter Zustand",
+    "url": "https://www.immobiliare.it/annunci/130022488/",
+    "photo": "",
+    "note": "Lage: Seglia/Sant'Anna. 5 Schlafzimmer, Meerblick, Kamin, Garage und Keller, autonome Heizung.",
+    "isNew": true
+  },
+  {
+    "id": "bordighera-centro-villa-82",
+    "title": "Einstöckige Villa mit Garten in Bordighera Zentrum",
+    "town": "Bordighera",
+    "price": "€ 490.000",
+    "sqm": "125 m²",
+    "plotSqm": "ca. 80 m² Garten",
+    "condition": "Guter Zustand",
+    "url": "https://www.immobiliare.it/annunci/128394066/",
+    "photo": "https://pwm.im-cdn.it/image/1907742742/xxs-c.jpg",
+    "note": "3 Schlafzimmer, ebenerdig, Meerblick, nur 3 Gehminuten zum Strand, Glasfaseranschluss.",
+    "isNew": true
+  },
+  {
+    "id": "ventimiglia-seglia-villa-garten-83",
+    "title": "Zweifamilienvilla mit Garten in Ventimiglia",
+    "town": "Ventimiglia",
+    "price": "€ 650.000",
+    "sqm": "250 m²",
+    "plotSqm": "1.500 m² Grundstück",
+    "condition": "Guter Pflegezustand (Baujahr 1990er)",
+    "url": "https://www.immobiliare.it/annunci/129006402/",
+    "photo": "https://pwm.im-cdn.it/image/1922453342/cover-m-c.jpg",
+    "note": "Lage: Seglia/Sant'Anna. 4 Schlafzimmer, Meerblick, Terrasse, Poolpotenzial dank großzügigem Garten, 2 Garagenplätze.",
+    "isNew": true
+  },
+  {
+    "id": "vallebona-villa-giardino-84",
+    "title": "Villa mit gepflegtem Garten in Vallebona",
+    "town": "Vallebona",
+    "price": "€ 995.000",
+    "sqm": "223 m²",
+    "plotSqm": "Gepflegter Garten, Größe nicht angegeben (Platz für Pool)",
+    "condition": "Ausgezeichneter Zustand",
+    "url": "https://www.immobiliare.it/annunci/122358480/",
+    "photo": "https://pwm.im-cdn.it/image/1760884672/cover-m-c.jpg",
+    "note": "5 Schlafzimmer, Meerblick, gepflegter Garten mit Platz für einen Pool, nahe Bordighera.",
+    "isNew": true
+  },
+  {
+    "id": "diano-castello-villa-neubau-85",
+    "title": "Neu gebaute Villa mit Garten bei Diano Castello",
+    "town": "Diano Castello",
+    "price": "€ 750.000",
+    "sqm": "164 m²",
+    "plotSqm": "Garten vorhanden, Größe nicht angegeben",
+    "condition": "Neubau",
+    "url": "https://www.immobiliare.it/annunci/125554105/",
+    "photo": "",
+    "note": "Lage: Diano Arentino/Villatalla. 2-3 Schlafzimmer, moderner Neubau auf einer Ebene, große Panoramaterrasse.",
+    "isNew": true
+  },
+  {
+    "id": "bordighera-montenero-villa-86",
+    "title": "Komplett sanierte Villa mit großem Grundstück in Bordighera",
+    "town": "Bordighera",
+    "price": "€ 990.000",
+    "sqm": "130 m²",
+    "plotSqm": "ca. 1.500 m² Grundstück",
+    "condition": "Komplett saniert, Zustand tadellos",
+    "url": "https://www.immobiliare.it/annunci/123551851/",
+    "photo": "https://pwm.im-cdn.it/image/1910412998/cover-m-c.jpg",
+    "note": "2 Schlafzimmer, Steinmauern, ungenutztes Baurecht für Erweiterung, zentrale Lage.",
+    "isNew": true
+  },
+  {
+    "id": "sanremo-capo-nero-villa-87",
+    "title": "Zweifamilienvilla mit Meerblick in Sanremo",
+    "town": "Sanremo",
+    "price": "€ 690.000",
+    "sqm": "268 m²",
+    "plotSqm": "ca. 80 m² Terrassengarten",
+    "condition": "Teilweise renoviert, teilweise renovierungsbedürftig",
+    "url": "https://www.immobiliare.it/annunci/126203421/",
+    "photo": "https://pwm.im-cdn.it/image/1855193441/cover-m-c.jpg",
+    "note": "Lage: Foce-Semeria. 4 Schlafzimmer, Meerblick, eine Wohnung bereits saniert, zweite Wohnung und Außenbereiche benötigen Renovierung.",
+    "isNew": true
+  },
+  {
+    "id": "perinaldo-villa-pool-88",
+    "title": "Villa mit Pool, Olivenhain und Wald in Perinaldo",
+    "town": "Perinaldo",
+    "price": "€ 595.000",
+    "sqm": "180 m²",
+    "plotSqm": "Garten mit Pool + 945 m² Olivenhain + ca. 3.000 m² Wald",
+    "condition": "Ausgezeichneter Zustand",
+    "url": "https://www.immobiliare.it/annunci/129568294/",
+    "photo": "https://pwm.im-cdn.it/image/1936364714/cover-m-c.jpg",
+    "note": "3 Schlafzimmer, Pool, Fußbodenheizung, Solaranlage, historisches Zentrum in 5 Gehminuten erreichbar.",
+    "isNew": true
+  },
+  {
+    "id": "sanremo-coldirodi-villa-89",
+    "title": "Historische Villa mit Garten in Coldirodi, Sanremo",
+    "town": "Sanremo",
+    "price": "€ 730.000",
+    "sqm": "530 m²",
+    "plotSqm": "ca. 600 m² Hofgarten",
+    "condition": "Ausgezeichnet/komplett renoviert",
+    "url": "https://www.immobiliare.it/annunci/129568308/",
+    "photo": "https://pwm.im-cdn.it/image/1936364912/cover-m-c.jpg",
+    "note": "Lage: Coldirodi. 5 Schlafzimmer, zwei Wohneinheiten (120 und 280 m²), englischer Rasen, Terrassen mit Meerblick.",
+    "isNew": true
+  },
+  {
+    "id": "imperia-oneglia-villa-garten-90",
+    "title": "Villa mit terrassiertem Garten in Oneglia, Imperia",
+    "town": "Imperia",
+    "price": "€ 870.000",
+    "sqm": "220 m²",
+    "plotSqm": "ca. 1.000 m² Garten",
+    "condition": "Ausgezeichneter Zustand, energetisch saniert",
+    "url": "https://www.immobiliare.it/annunci/126548059/",
+    "photo": "",
+    "note": "Lage: Oneglia/Cascine. 3 Schlafzimmer, terrassierter Garten mit Obstbäumen und Kräutern, Doppelgarage, Photovoltaik.",
+    "isNew": true
+  },
+  {
+    "id": "diano-marina-villa-ristrutturare-91",
+    "title": "Villa im Originalzustand mit großem Garten in Diano Marina",
+    "town": "Diano Marina",
+    "price": "€ 360.000",
+    "sqm": "138 m²",
+    "plotSqm": "Großer privater Garten, Größe nicht angegeben",
+    "condition": "Originalzustand, renovierungsbedürftig",
+    "url": "https://www.immobiliare.it/annunci/131299592/",
+    "photo": "https://pwm.im-cdn.it/image/1977740312/cover-m-c.jpg",
+    "note": "3 Schlafzimmer, geräumiger privater Garten, teilweiser Meerblick, Garage.",
+    "isNew": true
+  },
+  {
+    "id": "sanremo-san-sebastiano-villa-92",
+    "title": "Große renovierte Villa mit Garten in Sanremo",
+    "town": "Sanremo",
+    "price": "€ 749.000",
+    "sqm": "371 m² (insg. 519 m²)",
+    "plotSqm": "Gepflegter mediterraner Garten, Größe nicht angegeben",
+    "condition": "Ausgezeichnet/renoviert",
+    "url": "https://www.immobiliare.it/annunci/113787687/",
+    "photo": "https://pwm.im-cdn.it/image/1558140209/cover-m-c.jpg",
+    "note": "Lage: Foce-Semeria. 5+ Zimmer, zwei unabhängige Wohneinheiten, 360°-Terrasse, Garage für 4-5 Autos.",
+    "isNew": true
+  },
+  {
+    "id": "bordighera-due-strade-neubau-93",
+    "title": "Neubau-Villa mit Meerblick in Bordighera",
+    "town": "Bordighera",
+    "price": "€ 350.000",
+    "sqm": "190 m²",
+    "plotSqm": "ca. 1.000 m² Grundstück",
+    "condition": "Rohbau (aktueller Bauzustand)",
+    "url": "https://www.immobiliare.it/annunci/71128122/",
+    "photo": "https://pwm.im-cdn.it/image/1925659812/cover-m-c.jpg",
+    "note": "2 Schlafzimmer, Neubau in Rohbauzustand mit Südausrichtung und Meerblick, Platz für privaten Pool.",
+    "isNew": true
+  },
+  {
+    "id": "vallecrosia-villa-neubau-94",
+    "title": "Neubauvilla mit großem Grundstück in Vallecrosia",
+    "town": "Vallecrosia",
+    "price": "€ 790.000",
+    "sqm": "130 m²",
+    "plotSqm": "ca. 8.000 m² Grundstück (davon ca. 1.500 m² Garten)",
+    "condition": "Neubau (2019), Energieklasse A",
+    "url": "https://www.immobiliare.it/annunci/121584116/",
+    "photo": "https://pwm.im-cdn.it/image/1738565078/cover-m-c.jpg",
+    "note": "3 Schlafzimmer, Pool, Oliven-, Zitrus- und Obstbäume. Hinweis: Anzeige zuletzt im Juli 2025 aktualisiert, Verfügbarkeit ggf. prüfen.",
+    "isNew": true
+  },
+  {
+    "id": "vallecrosia-villa-rohbau-95",
+    "title": "Neubauprojekt-Villa mit Pool in Vallecrosia",
+    "town": "Vallecrosia",
+    "price": "€ 650.000",
+    "sqm": "160 m²",
+    "plotSqm": "ca. 2.800 m² Grundstück",
+    "condition": "Neubau/Rohbau, individuell gestaltbar",
+    "url": "https://www.immobiliare.it/annunci/128430354/",
+    "photo": "https://pwm.im-cdn.it/image/1908596646/cover-m-c.jpg",
+    "note": "2 Schlafzimmer geplant, 35 m² Pool und 100 m² Garage bereits vorhanden, Rohbau zur individuellen Fertigstellung.",
+    "isNew": true
+  },
+  {
+    "id": "sanremo-inglesi-villa-96",
+    "title": "Renovierungsbedürftige Zweifamilienvilla in Sanremo",
+    "town": "Sanremo",
+    "price": "€ 460.000",
+    "sqm": "130 m²",
+    "plotSqm": "Terrassen/kleiner Dachgarten, keine m²-Angabe",
+    "condition": "Renovierungsbedürftig",
+    "url": "https://www.immobiliare.it/annunci/130438954/",
+    "photo": "https://pwm.im-cdn.it/image/1977778330/cover-m-c.jpg",
+    "note": "2 Schlafzimmer, Terrassen mit Meerblick, 4 Stellplätze, ca. 1,5 km zum Strand.",
+    "isNew": true
+  },
+  {
+    "id": "cervo-villa-pool-97",
+    "title": "Einstöckige Villa mit Pool und Garten in Cervo",
+    "town": "Cervo",
+    "price": "€ 720.000",
+    "sqm": "113 m²",
+    "plotSqm": "ca. 1.000 m² Garten",
+    "condition": "Ausgezeichneter Zustand",
+    "url": "https://www.immobiliare.it/annunci/125539851/",
+    "photo": "https://pwm.im-cdn.it/image/1839570109/cover-m-c.jpg",
+    "note": "3 Schlafzimmer, Pool, barrierefrei (ebenerdig), Meerblick, vielfältige Bepflanzung.",
+    "isNew": true
+  },
+  {
+    "id": "imperia-torrazza-villa-98",
+    "title": "Villa mit Garten in Torrazza, Imperia",
+    "town": "Imperia",
+    "price": "€ 415.000",
+    "sqm": "214 m²",
+    "plotSqm": "900 m² Grundstück",
+    "condition": "Guter Zustand, teilweise möbliert",
+    "url": "https://www.immobiliare.it/annunci/124873509/",
+    "photo": "https://pwm.im-cdn.it/image/1823440491/cover-m-c.jpg",
+    "note": "Lage: Torrazza. 3 Schlafzimmer, Terrassen mit Meerblick, Pergola mit Grillplatz, Lagerraum.",
+    "isNew": true
+  },
+  {
+    "id": "imperia-poggi-villa-rosa-99",
+    "title": "Luxusvilla 'Villa Rosa' mit Pool und Olivenhain in Imperia",
+    "town": "Imperia",
+    "price": "€ 990.000",
+    "sqm": "327 m²",
+    "plotSqm": "2.500 m² Grundstück",
+    "condition": "Ausgezeichneter Zustand, hochwertig ausgestattet",
+    "url": "https://www.immobiliare.it/annunci/122522338/",
+    "photo": "https://pwm.im-cdn.it/image/1765222740/cover-m-c.jpg",
+    "note": "Lage: Poggi. 3 Schlafzimmer, Pool, 60 ertragreiche Olivenbäume, Photovoltaik, Meerblick.",
+    "isNew": true
+  },
+  {
+    "id": "diano-marina-villa-garten-100",
+    "title": "Villa mit Garten in Diano Marina",
+    "town": "Diano Marina",
+    "price": "€ 485.000",
+    "sqm": "200 m²",
+    "plotSqm": "500 m² Garten",
+    "condition": "Sehr guter Zustand",
+    "url": "https://www.immobiliare.it/annunci/127114851/",
+    "photo": "https://pwm.im-cdn.it/image/1917747588/cover-m-c.jpg",
+    "note": "2 Schlafzimmer, möbliert, Kellerbereich mit Taverne, elektrisches Tor, 3 km bis zum Meer.",
+    "isNew": true
+  },
+  {
+    "id": "riva-ligure-villa-101",
+    "title": "Villa mit Grundstück und Meerblick in Riva Ligure",
+    "town": "Riva Ligure",
+    "price": "€ 420.000",
+    "sqm": "160 m²",
+    "plotSqm": "1.500 m² Grundstück",
+    "condition": "Renovierungsbedürftig",
+    "url": "https://www.immobiliare.it/annunci/130333980/",
+    "photo": "https://pwm.im-cdn.it/image/1955082126/cover-m-c.jpg",
+    "note": "3 Schlafzimmer (Angebot nennt teils 5), Panorama-Meerblick, Ausbaupotenzial, Baujahr 2000.",
+    "isNew": true
+  },
+  {
+    "id": "cervo-poggio-villa-102",
+    "title": "Kleine Villa mit privatem Obstgarten in Cervo",
+    "town": "Cervo",
+    "price": "€ 550.000",
+    "sqm": "100 m²",
+    "plotSqm": "Privater Obstgarten mit Olivenbäumen, Größe nicht angegeben",
+    "condition": "Guter Zustand",
+    "url": "https://www.immobiliare.it/annunci/130481202/",
+    "photo": "https://pwm.im-cdn.it/image/1958535824/cover-m-c.jpg",
+    "note": "2 Schlafzimmer, offener Kamin, Terrasse mit Meerblick, freistehend auf allen vier Seiten.",
+    "isNew": true
+  },
+  {
+    "id": "imperia-costa-oneglia-villa-103",
+    "title": "Villa mit Olivenhain in Costa d'Oneglia, Imperia",
+    "town": "Imperia",
+    "price": "€ 720.000",
+    "sqm": "180 m²",
+    "plotSqm": "ca. 2.200 m² Olivenhain + 400-500 m² Garten",
+    "condition": "Guter Zustand",
+    "url": "https://www.immobiliare.it/annunci/126232707/",
+    "photo": "https://pwm.im-cdn.it/image/1855902677/m-c.jpg",
+    "note": "Lage: Costa d'Oneglia. 3 Schlafzimmer, teilbar in zwei Wohnungen, Meerblick, nahe Bahnhof und Autobahn.",
+    "isNew": true
+  },
+  {
+    "id": "imperia-oneglia-villa-104",
+    "title": "Renovierungsbedürftige Villa mit Meerblick in Oneglia",
+    "town": "Imperia",
+    "price": "€ 735.000",
+    "sqm": "308 m²",
+    "plotSqm": "Garten/Terrassen, Größe nicht angegeben",
+    "condition": "Renovierungsbedürftig (Haustechnik zu erneuern)",
+    "url": "https://www.immobiliare.it/annunci/128844042/",
+    "photo": "https://pwm.im-cdn.it/image/1918671152/cover-m-c.jpg",
+    "note": "Lage: Oneglia. 6 Schlafzimmer, separate Einliegerwohnung (~100 m²), 180°-Meerblick, Doppelgarage.",
+    "isNew": true
+  },
+  {
+    "id": "diano-marina-villa-pool-105",
+    "title": "Luxus-Zweifamilienvilla mit Pool in Diano Marina",
+    "town": "Diano Marina",
+    "price": "€ 930.000",
+    "sqm": "251 m²",
+    "plotSqm": "Privater Garten, Größe nicht angegeben",
+    "condition": "Kürzlich saniert, ausgezeichneter Zustand",
+    "url": "https://www.immobiliare.it/annunci/131273266/",
+    "photo": "https://pwm.im-cdn.it/image/1977133816/cover-m-c.jpg",
+    "note": "3 Schlafzimmer, 180°-Meerblick, Pool, zwei unabhängige Einheiten, 4 Stellplätze.",
+    "isNew": true
+  },
+  {
+    "id": "taggia-centro-haus-106",
+    "title": "Freistehendes Haus mit Garten im Zentrum von Taggia",
+    "town": "Taggia",
+    "price": "€ 320.000",
+    "sqm": "180 m² (nutzbar)",
+    "plotSqm": "300 m² Garten",
+    "condition": "Gut/bewohnbar, Baujahr 1930",
+    "url": "https://www.immobiliare.it/annunci/130979672/",
+    "photo": "",
+    "note": "6 Zimmer/Schlafzimmer, Steinofen im Garten, Terrasse und Balkon, zentrale Lage.",
+    "isNew": true
+  },
+  {
+    "id": "civezza-villa-olivenhain-107",
+    "title": "Villa mit Olivenhain in Civezza",
+    "town": "Civezza",
+    "price": "€ 585.000",
+    "sqm": "245 m²",
+    "plotSqm": "5.300 m² Olivenhain + 600 m² Garten",
+    "condition": "Ausgezeichneter Zustand",
+    "url": "https://www.immobiliare.it/annunci/126615401/",
+    "photo": "",
+    "note": "3 Schlafzimmer, teilbar in zwei Einheiten, unter 10 Minuten zum Strand von San Lorenzo.",
+    "isNew": true
+  },
+  {
+    "id": "seborga-villa-park-108",
+    "title": "Sanierte Villa mit Park und Pool in Seborga",
+    "town": "Seborga",
+    "price": "€ 695.000",
+    "sqm": "223 m²",
+    "plotSqm": "ca. 2.694 m² Parkgrundstück",
+    "condition": "Ausgezeichnet/renoviert",
+    "url": "https://www.immobiliare.it/annunci/129568290/",
+    "photo": "",
+    "note": "4 Schlafzimmer, 12x4m Überlaufpool, Gästehaus, Außenküche mit Holzofen, alte Olivenbäume.",
+    "isNew": true
+  },
+  {
+    "id": "sanremo-marconi-villa-109",
+    "title": "Villa mit großem Grundstück in Sanremo",
+    "town": "Sanremo",
+    "price": "€ 850.000",
+    "sqm": "140 m²",
+    "plotSqm": "6.000 m² Grundstück",
+    "condition": "Perfekter Zustand, keine Renovierung nötig",
+    "url": "https://www.immobiliare.it/annunci/118690893/",
+    "photo": "https://pwm.im-cdn.it/image/1657834213/cover-m-c.jpg",
+    "note": "Lage: Foce-Semeria. 3 Schlafzimmer, Meerblick, ca. 100 m zum Strand, Potenzial für Garage und Pool.",
+    "isNew": true
+  },
+  {
+    "id": "imperia-torrazza-landhaus-110",
+    "title": "Renovierungsbedürftiges Landhaus mit großem Grundstück bei Imperia",
+    "town": "Imperia",
+    "price": "€ 300.000",
+    "sqm": "190 m²",
+    "plotSqm": "4.000 m² Grundstück",
+    "condition": "Renovierungsbedürftig (teilweise bereits saniert)",
+    "url": "https://www.immobiliare.it/annunci/120142500/",
+    "photo": "https://pwm.im-cdn.it/image/1847935369/cover-m-c.jpg",
+    "note": "Lage: Torrazza. 4 Schlafzimmer, ebenes Grundstück, Aufteilung in Villa oder zwei Wohneinheiten möglich, 3 Minuten zum Meer.",
+    "isNew": true
+  },
+  {
+    "id": "imperia-torrazza-rustico-111",
+    "title": "Rustico mit großem Grundstück und ehemaliger Ölmühle bei Imperia",
+    "town": "Imperia",
+    "price": "€ 450.000",
+    "sqm": "175 m²",
+    "plotSqm": "5.000 m² Grundstück",
+    "condition": "Renovierungsbedürftig",
+    "url": "https://www.immobiliare.it/annunci/117211635/",
+    "photo": "https://pwm.im-cdn.it/image/1926886206/cover-m-c.jpg",
+    "note": "Lage: Torrazza. 4 Schlafzimmer, freiliegende Balkendecken, Steinlagerräume, Potenzial für Agriturismo/B&B, unter 2 km zum Zentrum.",
+    "isNew": true
+  },
+  {
+    "id": "dolcedo-bellissimi-landhaus-112",
+    "title": "Renovierungsbedürftiges Landhaus mit Meerblick in Dolcedo",
+    "town": "Dolcedo",
+    "price": "€ 300.000",
+    "sqm": "178 m²",
+    "plotSqm": "598 m² Garten",
+    "condition": "Renovierungsbedürftig",
+    "url": "https://www.immobiliare.it/annunci/126999867/",
+    "photo": "https://pwm.im-cdn.it/image/1877875393/cover-m-c.jpg",
+    "note": "Lage: Bellissimi. 4 Schlafzimmer, eingezäunter Garten mit Meerblick und Poolpotenzial, Baujahr 1900.",
+    "isNew": true
+  },
+  {
+    "id": "diano-san-pietro-rustico-113",
+    "title": "Saniertes Rustico mit Nebengebäude in Diano San Pietro",
+    "town": "Diano San Pietro",
+    "price": "€ 570.000",
+    "sqm": "131 m²",
+    "plotSqm": "ca. 100-200 m² Außenfläche",
+    "condition": "Ausgezeichnet, kürzlich saniert",
+    "url": "https://www.immobiliare.it/annunci/112634957/",
+    "photo": "https://pwm.im-cdn.it/image/1967797306/cover-m-c.jpg",
+    "note": "2 Schlafzimmer, separates Gästehaus mit Balkon, Terrassen mit Meer- und Hügelblick.",
+    "isNew": true
+  },
+  {
+    "id": "diano-san-pietro-rustico-torre-114",
+    "title": "Zwei Rustico-Gebäude mit Garten und Steinturm in Diano San Pietro",
+    "town": "Diano San Pietro",
+    "price": "€ 395.000",
+    "sqm": "110 m²",
+    "plotSqm": "ca. 300 m² Garten",
+    "condition": "Guter Zustand, Dach und Fassade erneuert",
+    "url": "https://www.immobiliare.it/annunci/131311566/",
+    "photo": "https://pwm.im-cdn.it/image/1978025014/cover-m-c.jpg",
+    "note": "2 Schlafzimmer, restaurierter Steinturm, zweites Nebengebäude (55 m²), Meerblick.",
+    "isNew": true
+  },
+  {
+    "id": "taggia-arma-rustico-115",
+    "title": "Renovierungsbedürftiges Rustico mit großem Grundstück in Taggia",
+    "town": "Taggia",
+    "price": "€ 360.000",
+    "sqm": "107 m² (insg. 211 m²)",
+    "plotSqm": "2.969 m² Grundstück",
+    "condition": "Renovierungsbedürftig, Baujahr 1950",
+    "url": "https://www.immobiliare.it/annunci/125200683/",
+    "photo": "https://pwm.im-cdn.it/image/1831339089/xxs-c.jpg",
+    "note": "Lage: Arma di Taggia. 2 Schlafzimmer, Meerblick, Baupotenzial für ca. 530 m³ Neubau, Garage und Lagerraum.",
+    "isNew": true
+  },
+  {
+    "id": "sanremo-verezzo-haus-116",
+    "title": "Unabhängiges Zweifamilienhaus mit Garten in Verezzo, Sanremo",
+    "town": "Sanremo",
+    "price": "€ 430.000",
+    "sqm": "328 m²",
+    "plotSqm": "1.000 m² Grundstück",
+    "condition": "Guter Zustand",
+    "url": "https://www.immobiliare.it/annunci/128877268/",
+    "photo": "https://pwm.im-cdn.it/image/1919467436/xxs-c.jpg",
+    "note": "Lage: Verezzo. 5 Schlafzimmer, Gemüsegarten mit zwei Gewächshäusern, Grillplatz, auch als Investment geeignet.",
+    "isNew": true
+  },
+  {
+    "id": "cipressa-steinhaus-1300-117",
+    "title": "Historisches Steinhaus (Baujahr 1300) in Cipressa",
+    "town": "Cipressa",
+    "price": "€ 360.000",
+    "sqm": "120 m²",
+    "plotSqm": "Keine Angabe (zwei Terrassen mit Meerblick)",
+    "condition": "Ausgezeichnet, fein restauriert, möbliert",
+    "url": "https://www.immobiliare.it/annunci/128614228/",
+    "photo": "",
+    "note": "2 Schlafzimmer, mittelalterliches Gebäude aus dem Jahr 1300, zwei Terrassen mit Meerblick, privater Parkplatz.",
+    "isNew": true
+  },
+  {
+    "id": "ranzo-landhaus-118",
+    "title": "Restauriertes Landhaus aus dem 16. Jahrhundert in Ranzo",
+    "town": "Ranzo",
+    "price": "€ 510.000",
+    "sqm": "170 m² (238 m² inkl. Außenbereiche)",
+    "plotSqm": "Innenhof mit Garten und privatem Olivenhain, Größe nicht angegeben",
+    "condition": "Komplett renoviert (2019-2021)",
+    "url": "https://www.immobiliare.it/annunci/127697066/",
+    "photo": "https://pwm.im-cdn.it/image/1890740924/cover-m-c.jpg",
+    "note": "3 Schlafzimmer, historisches Landhaus mit eigener Bio-Olivenölproduktion, Pergola und Innenhof.",
+    "isNew": true
+  },
+  {
+    "id": "dolceacqua-muehle-119",
+    "title": "Ehemalige Ölmühle, aufwendig saniert, in Dolceacqua",
+    "town": "Dolceacqua",
+    "price": "€ 550.000",
+    "sqm": "377 m²",
+    "plotSqm": "ca. 2.000 m² Grundstück",
+    "condition": "Prächtig saniert",
+    "url": "https://www.immobiliare.it/annunci/131383330/",
+    "photo": "https://pwm.im-cdn.it/image/1979617098/cover-m-c.jpg",
+    "note": "3 Schlafzimmer, ehemalige Mühle mit hohen Decken und Empore, drei unabhängige Einheiten mit Vermietungspotenzial, 5 Gehminuten vom mittelalterlichen Dorf entfernt.",
+    "isNew": true
+  },
+  {
+    "id": "cipressa-rustico-mehrere-120",
+    "title": "Rustico mit fünf Wohneinheiten im mittelalterlichen Dorf Cipressa",
+    "town": "Cipressa",
+    "price": "€ 400.000",
+    "sqm": "284 m²",
+    "plotSqm": "Keine Angabe",
+    "condition": "Gut/bewohnbar (Fassade saniert, Böden und Installationen fehlen)",
+    "url": "https://www.immobiliare.it/annunci/124367763/",
+    "photo": "https://pwm.im-cdn.it/image/1810996251/cover-m-c.jpg",
+    "note": "Insgesamt 13 Zimmer verteilt auf 5 Einheiten (Studios bis 3-Zimmer-Wohnungen), Tal- und Meerblick, in einem der schönsten Dörfer Italiens.",
+    "isNew": true
+  },
+  {
+    "id": "civezza-historisches-steinhaus-121",
+    "title": "Historisches Steinhaus mit Garten und Meerblick",
+    "town": "Civezza",
+    "price": "€ 790.000",
+    "sqm": "522 m²",
+    "plotSqm": "privater Garten (Größe n.a.)",
+    "condition": "Gepflegt, bewohnbar, Baujahr ca. 1700",
+    "url": "https://www.casa.it/immobili/53389082/",
+    "photo": "https://images-1.casa.it/360x275/listing/0/72/d0/65/158351217.jpg",
+    "note": "Viergeschossiges Rustico mit Originalböden, historischem Ofen, intakter Olivenmühle und drei Bädern (mehrere Schlafbereiche) - geeignet für Agriturismo/B&B. Seltener privater Parkplatz.",
+    "isNew": true
+  },
+  {
+    "id": "perinaldo-castello-2einheiten-122",
+    "title": "Restauriertes Burghaus mit Turm und Panoramaterrassen",
+    "town": "Perinaldo",
+    "price": "€ 640.000",
+    "sqm": "386 m²",
+    "plotSqm": "ca. 190 m² Terrassen, 120 m² historischer Weinkeller",
+    "condition": "Restauriert",
+    "url": "https://www.casa.it/immobili/51629580/",
+    "photo": "https://images-1.casa.it/360x275/listing/0/5d/78/02/696948523.jpg",
+    "note": "Zwei Wohneinheiten (4 + 1 Schlafzimmer) in ehemaliger Festung im mittelalterlichen Bergdorf. Blick auf Meer und Seealpen, historischer Weinkeller.",
+    "isNew": true
+  },
+  {
+    "id": "diano-san-pietro-rustico-gaestehaus-123",
+    "title": "Rustico mit Gästehaus und Meerblick",
+    "town": "Diano San Pietro",
+    "price": "€ 620.000",
+    "sqm": "160 m²",
+    "plotSqm": "1.000 m² Grundstück",
+    "condition": "Bewohnbar",
+    "url": "https://www.casa.it/immobili/44287658/",
+    "photo": "https://images-1.casa.it/360x275/listing/0/9f/19/a1/143860247.jpg",
+    "note": "2 Schlafzimmer im Hauptgebäude plus separates 25 m² Gästehäuschen mit eigenem Schlafzimmer. 1.000 m² Garten mit Meerblick, Gas-/Pelletheizung.",
+    "isNew": true
+  },
+  {
+    "id": "san-biagio-della-cima-olivenmuehle-124",
+    "title": "Restaurierte Olivenmühle als Agriturismo mit Obstgarten",
+    "town": "San Biagio della Cima",
+    "price": "€ 600.000",
+    "sqm": "790 m²",
+    "plotSqm": "ca. 2.900 m² (900 m² Garten + 2.000 m² Obst-/Gemüsegarten)",
+    "condition": "Komplett saniert, bewohnbar",
+    "url": "https://www.casa.it/immobili/51411714/",
+    "photo": "https://images-1.casa.it/360x275/listing/0/46/cd/26/688652876.jpg",
+    "note": "Ehemalige, restaurierte Olivenmühle mit 2 Schlafzimmern, aktuell Agriturismo mit Restaurant/Bar. Weiteres Baupotenzial laut Bebauungsindex.",
+    "isNew": true
+  },
+  {
+    "id": "diano-san-pietro-huegelhaus-gaestehaus-125",
+    "title": "Restauriertes Hügelhaus mit Gästehaus",
+    "town": "Diano San Pietro",
+    "price": "€ 570.000",
+    "sqm": "130 m²",
+    "plotSqm": "terrassiertes Grundstück (Größe n.a.)",
+    "condition": "Saniert, bezugsfertig",
+    "url": "https://www.casa.it/immobili/49445127/",
+    "photo": "https://images-1.casa.it/360x275/listing/0/ab/bc/93/818954644.jpg",
+    "note": "Restauriertes Cottage mit Panoramaterrasse und Schlafzimmer, plus separates Gästehaus mit weiterem Schlafzimmer (zusammen 2). Neue Pelletheizung, 5 km zum Meer.",
+    "isNew": true
+  },
+  {
+    "id": "ranzo-araca-farmhouse-126",
+    "title": "Restauriertes Bauernhaus mit privatem Olivenhain",
+    "town": "Ranzo",
+    "price": "€ 510.000",
+    "sqm": "238 m²",
+    "plotSqm": "666 m² Grundstück",
+    "condition": "Komplett restauriert (16. Jh.), bewohnbar",
+    "url": "https://www.casa.it/immobili/53603515/",
+    "photo": "https://images-1.casa.it/360x275/listing/0/d6/42/1d/784360429.jpg",
+    "note": "Bauernhaus aus dem 16. Jh. mit Originalstein, 3 Schlafzimmern, 3 Bädern, mediterranem Garten und eigenem Olivenhain für Taggiasca-Öl.",
+    "isNew": true
+  },
+  {
+    "id": "ventimiglia-torri-calvo-steinhaus-127",
+    "title": "Renoviertes Steinhaus mit Panoramablick und Whirlpool",
+    "town": "Ventimiglia",
+    "price": "€ 399.000",
+    "sqm": "197 m²",
+    "plotSqm": "1.534 m² Grundstück",
+    "condition": "Guter Zustand, gepflegt (Baujahr ca. 1800)",
+    "url": "https://www.idealista.it/immobile/28790675/",
+    "photo": "https://img4.idealista.it/blur/WEB_DETAIL_TOP-L-L/0/id.pro.it.image.master/8b/f3/a6/566308203.jpg",
+    "note": "Lage: Torri-Calvo-Villatella. Steinhaus auf 400 m Höhe mit Tonnengewölbe, 2 Schlafzimmern (Hauptschlafzimmer en-suite), Pelletkamin und Sea-View-Whirlpool im Garten.",
+    "isNew": true
+  },
+  {
+    "id": "pigna-naturpark-steinhaus-128",
+    "title": "Steinhaus im Naturpark mit vier Hektar Land und Quelle",
+    "town": "Pigna",
+    "price": "€ 330.000",
+    "sqm": "170 m²",
+    "plotSqm": "ca. 40.000 m² (4 ha) inkl. 2 Nebengebäude und eigener Quelle",
+    "condition": "Guter Zustand",
+    "url": "https://www.idealista.it/immobile/30492669/",
+    "photo": "https://img4.idealista.it/blur/WEB_DETAIL_TOP-L-L/0/id.pro.it.image.master/36/32/80/624372898.jpg",
+    "note": "Alleinstehendes Steinhaus im Regionalpark der ligurischen Alpen mit 2 Schlafzimmern, Kamin und vier Hektar Land - ideal für ein Agriturismo-Projekt (Preis verhandelbar).",
+    "isNew": true
+  },
+  {
+    "id": "imperia-borgo-santagata-villa-129",
+    "title": "Sanierte Villa mit zwei Wohneinheiten und Garten",
+    "town": "Imperia",
+    "price": "€ 689.000",
+    "sqm": "300 m²",
+    "plotSqm": "ca. 1.500 m² Garten",
+    "condition": "2024 vollständig saniert",
+    "url": "https://www.casa.it/immobili/54251095/",
+    "photo": "https://images-1.casa.it/360x275/listing/0/b1/16/9a/812956274.jpg",
+    "note": "Lage: Borgo Sant'Agata. Freistehende Villa mit 4 Schlafzimmern (2 pro Einheit), Meerblick-Terrasse, Photovoltaik und Garage. Zwei unabhängige Wohneinheiten.",
+    "isNew": true
+  },
+  {
+    "id": "imperia-oneglia-villa-pool-130",
+    "title": "Villa mit Pool und Meerblick in Oneglia",
+    "town": "Imperia",
+    "price": "€ 950.000",
+    "sqm": "287 m²",
+    "plotSqm": "ca. 750 m² Grundstück",
+    "condition": "Bewohnbar, Modernisierung bei Bad/Küche empfohlen (Baujahr 1971)",
+    "url": "https://www.casa.it/immobili/51903196/",
+    "photo": "https://images-1.casa.it/360x275/listing/0/f5/a5/31/725358177.jpg",
+    "note": "Lage: Oneglia. Ligurische Villa mit Natursteinmauern, Terrakottaböden, 3 Schlafzimmern, 45 m² Pool und Doppelgarage nahe der Fußgängerzone.",
+    "isNew": true
+  },
+  {
+    "id": "sanremo-villetta-san-martino-villa-131",
+    "title": "Renovierte Villa mit Panorama-Golfblick",
+    "town": "Sanremo",
+    "price": "€ 949.000",
+    "sqm": "360 m²",
+    "plotSqm": "ca. 1.400 m² Garten",
+    "condition": "Renoviert (Baujahr 1995, Energieklasse A4)",
+    "url": "https://www.casa.it/immobili/54491160/",
+    "photo": "https://images-1.casa.it/360x275/listing/0/a2/55/37/823077228.jpg",
+    "note": "Lage: Villetta-San Martino. Elegante dreistöckige Villa mit 3 Schlafzimmern (Master-Suite im Dachgeschoss), Doppelgarage, Wärmepumpe, Photovoltaik, Poolmöglichkeit.",
+    "isNew": true
+  },
+  {
+    "id": "diano-marina-villa-olivenhain-132",
+    "title": "Sanierte Villa mit Olivenhain, 2 km vom Meer",
+    "town": "Diano Marina",
+    "price": "€ 750.000",
+    "sqm": "220 m²",
+    "plotSqm": "ca. 2.500 m² inkl. Olivenhain (35-40 Bäume)",
+    "condition": "Kürzlich vollständig renoviert, bezugsfertig",
+    "url": "https://www.casa.it/immobili/45520706/",
+    "photo": "https://images-1.casa.it/360x275/listing/0/df/21/a6/785718756.jpg",
+    "note": "Freistehende, zweigeschossige Villa mit 4 Schlafzimmern in Top-Zustand, großem Hof und ebenem Gelände für einen Pool, nur 2 km bis zum Meer.",
+    "isNew": true
+  },
+  {
+    "id": "imperia-poggi-villa-meerblick-133",
+    "title": "Villa mit mehreren Wohneinheiten und Meerblick",
+    "town": "Imperia",
+    "price": "€ 729.000",
+    "sqm": "240 m²",
+    "plotSqm": "Gartenanlage mit Meerblick (Größe n.a.)",
+    "condition": "Bewohnbar (Baujahr 2000)",
+    "url": "https://www.casa.it/immobili/53401161/",
+    "photo": "https://images-1.casa.it/360x275/listing/0/ee/24/b1/775700689.jpg",
+    "note": "Lage: Poggi. Zweigeschossige Villa in Hügellage, aufgeteilt in Hauptwohnung plus zwei weitere Apartments mit mehreren Schlafzimmern. Pergola mit Außenküche, Garage.",
+    "isNew": true
+  },
+  {
+    "id": "seborga-villa-neubau-134",
+    "title": "Neu gebaute Villa mit Pool im Fürstentum Seborga",
+    "town": "Seborga",
+    "price": "€ 595.000",
+    "sqm": "227 m²",
+    "plotSqm": "700 m² Grundstück",
+    "condition": "Neubau (fertiggestellt 2025)",
+    "url": "https://www.casa.it/immobili/54305205/",
+    "photo": "https://images-1.casa.it/360x275/listing/0/45/6a/e8/815822790.jpg",
+    "note": "Moderne dreistöckige Neubauvilla mit 5 Schlafzimmern, Energieklasse B, Wärmepumpe, ca. 90 m² Terrassen, nur 1 km vom Zentrum Seborgas.",
+    "isNew": true
+  },
+  {
+    "id": "imperia-oneglia-villa-limoni-pool-135",
+    "title": "Villa Limoni mit Pool und Panoramagarten",
+    "town": "Imperia",
+    "price": "€ 830.000",
+    "sqm": "246 m²",
+    "plotSqm": "ca. 2.600 m² Garten",
+    "condition": "Bewohnbar, Energieklasse A1",
+    "url": "https://www.casa.it/immobili/53324640/",
+    "photo": "https://images-1.casa.it/360x275/listing/0/f5/79/8e/771874951.jpg",
+    "note": "Villa in den Hügeln über Imperia mit Meerblick, Pool, 2 Schlafzimmern, Doppelgarage und terrakottagepflasterten Gartenwegen.",
+    "isNew": true
+  },
+  {
+    "id": "imperia-porto-maurizio-villa-olivenhain-136",
+    "title": "Villa mit großem Olivenhain in Porto Maurizio",
+    "town": "Imperia",
+    "price": "€ 950.000",
+    "sqm": "210 m²",
+    "plotSqm": "ca. 5.000 m² Olivenhain (2 Parzellen)",
+    "condition": "Gepflegt, guter Zustand (Baujahr 2000)",
+    "url": "https://www.casa.it/immobili/54199562/",
+    "photo": "https://images-1.casa.it/360x275/listing/0/9c/65/33/811203024.jpg",
+    "note": "Lage: Porto Maurizio. Exklusive Villa mit 3 Schlafzimmern (je en-suite), venezianischem Stuck, Terrakottaböden. 5.000 m² Olivenhain auf zwei Parzellen, barrierefrei.",
+    "isNew": true
+  },
+  {
+    "id": "camporosso-trinita-villa-terreno-137",
+    "title": "Zweifamilienvilla mit großem Grundstück und Meerblick in Camporosso",
+    "town": "Camporosso",
+    "price": "€ 450.000",
+    "sqm": "230 m²",
+    "plotSqm": "9.000 m² Grundstück (weitere 17.000 m² optional dazukaufbar)",
+    "condition": "Guter Zustand",
+    "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=2583299&language=ita",
+    "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/2583299/F_405328.jpg",
+    "note": "Zweigeschossige Villa mit 2 unabhängigen Wohneinheiten, 6 Schlafzimmer insgesamt, umgeben von Oliven- und Obstbäumen mit Panorama- und Meerblick. Hügellage in Camporosso, guter Ausgangszustand mit Ausbaupotenzial im Dachgeschoss.",
+    "isNew": true
+  },
+  {
+    "id": "camporosso-braie-villa-panorama-138",
+    "title": "Villa mit zwei Wohneinheiten und Grundstück, Panoramablick, Camporosso",
+    "town": "Camporosso",
+    "price": "€ 455.000",
+    "sqm": "199 m²",
+    "plotSqm": "4.200 m² Grundstück",
+    "condition": "Ausgezeichneter Zustand, sofort bezugsfertig",
+    "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=2580636&language=ita",
+    "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/2580636/F_157121.jpg",
+    "note": "Lage: Zona Braie. Unabhängige zweistöckige Villa mit 4 Schlafzimmern, Wohnzimmer, offener Küche und Loggia im Obergeschoss; im Untergeschoss Taverne mit zwei weiteren Zimmern (als separate Wohneinheit nutzbar). Großzügiges, teils bewaldetes Grundstück mit Grillplatz, ca. 1,5 km vom Ortszentrum entfernt.",
+    "isNew": true
+  },
+  {
+    "id": "camporosso-ciaixe-villa-garten-139",
+    "title": "Villa mit Meerblick, Garten und Doppelgarage in Camporosso",
+    "town": "Camporosso",
+    "price": "€ 430.000",
+    "sqm": "160 m²",
+    "plotSqm": "1.257 m² Grundstück",
+    "condition": "Ausgezeichneter Zustand, bezugsfertig",
+    "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=2539118&language=ita",
+    "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/2539118/F_625852.jpg",
+    "note": "Lage: Zona Ciaixe. Möblierte, zweigeschossige Villa mit 4 Schlafzimmern, 2 Bädern und Meerblick. Eigenständige Heizung, Energieklasse D, freistehende Doppelgarage (27 m²), Entfernung zum Meer über 2 km.",
+    "isNew": true
+  },
+  {
+    "id": "camporosso-zentrum-villa-bifamiliare-140",
+    "title": "Zweifamilienvilla nahe Zentrum und Meer in Camporosso",
+    "town": "Camporosso",
+    "price": "€ 490.000",
+    "sqm": "210 m²",
+    "plotSqm": "500 m² Grundstück (Garten)",
+    "condition": "Ausgezeichneter Zustand, sofort verfügbar",
+    "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=2514202&language=ita",
+    "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/2514202/F_132480.jpg",
+    "note": "Zweistöckige Villa mit 5 Schlafzimmern, 3 Bädern, Kamin und Doppelgarage (30 m²), Baujahr 2000. Preis von 510.000 € auf 490.000 € reduziert, nur ca. 1 km vom Meer entfernt, sofort bezugsfertig.",
+    "isNew": true
+  },
+  {
+    "id": "bordighera-meerblick-garten-villa-141",
+    "title": "Villa mit Meerblick und privatem Garten in Bordighera",
+    "town": "Bordighera",
+    "price": "€ 745.000",
+    "sqm": "230 m²",
+    "plotSqm": "Privater Garten (Größe nicht angegeben)",
+    "condition": "Ausgezeichneter Zustand",
+    "url": "https://www.aquamarinarealestate.com/bordighera-villa-vista-mare-in-vendita-rv3396",
+    "photo": "https://www.aquamarinarealestate.com/immagini_immobili/full/12047.jpg",
+    "note": "Villa mit 4 Schlafzimmern, 3 Bädern und 6 Zimmern insgesamt, privatem Garten, Terrasse, Keller und Garage. Preis kürzlich reduziert, Energieklasse C, ca. 3,5 km vom Meer entfernt.",
+    "isNew": true
+  },
+  {
+    "id": "cipressa-aregai-villa-meerblick-142",
+    "title": "Freistehende Villa mit Meerblick in Cipressa (Aregai)",
+    "town": "Cipressa",
+    "price": "€ 625.000",
+    "sqm": "100 m²",
+    "plotSqm": "ca. 3.700 m² Grundstück",
+    "condition": "Guter Zustand, Baujahr 2005",
+    "url": "https://www.aquamarinarealestate.com/cipressa-villa-singola-vista-mare",
+    "photo": "https://www.aquamarinarealestate.com/immagini_immobili/full/12355.jpg",
+    "note": "Lage: Fraktion Aregai. Alleinstehende Villa mit 2 Schlafzimmern, offenem Wohn-/Küchenbereich, überdachter Veranda und unterirdischem Lagerraum (115 m²). Großzügiges Grundstück mit herrlichem Meerblick, Garage vorhanden.",
+    "isNew": true
+  },
+  {
+    "id": "seborga-villa-neuwertig-meerblick-143",
+    "title": "Neuwertige Villa mit Meerblick in Seborga",
+    "town": "Seborga",
+    "price": "€ 595.000",
+    "sqm": "240 m²",
+    "plotSqm": "nicht angegeben",
+    "condition": "Ausgezeichneter Zustand, Baujahr 2022",
+    "url": "https://www.aquamarinarealestate.com/seborga-villa-vista-mare-in-vendita",
+    "photo": "https://www.aquamarinarealestate.com/immagini_immobili/full/12303.jpg",
+    "note": "Neuwertige, zweistöckige Villa mit 4 Schlafzimmern, 3 Bädern, separater Gästewohnung, großer Garage/Lagerraum, Außenküche und Pool. Ruhige Wohnlage nahe Ortszentrum, sofort bezugsfertig.",
+    "isNew": true
+  },
+  {
+    "id": "dolceacqua-altstadt-steinhaus-144",
+    "title": "Charmantes Steinhaus in der Altstadt von Dolceacqua",
+    "town": "Dolceacqua",
+    "price": "€ 310.000",
+    "sqm": "117 m²",
+    "plotSqm": "keine Angabe (Stadthaus auf 3 Ebenen, kein separates Grundstück)",
+    "condition": "Liebevoll und sorgfältig saniert, historische Bausubstanz und mittelalterlicher Charme erhalten, moderne Ausstattung",
+    "url": "https://www.engelvoelkers.com/it/en/exposes/fcd32af8-c186-596a-8880-4b14d95620ca",
+    "photo": "https://uploadcare.engelvoelkers.com/3fee73d1-279d-4c5c-afe4-5d63ddb00738/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/",
+    "note": "2 Schlafzimmer, 3 Bäder, historisches Steinhaus über 3 Etagen mit Balkon, Keller und Terrasse im malerischen Altstadtkern von Dolceacqua. Bereits renoviert (nicht renovierungsbedürftig), guter Einstiegspreis im Zielbudget, aber ohne eigenes Grundstück/Garten.",
     "isNew": true
   }
 ]
