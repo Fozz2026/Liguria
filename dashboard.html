@@ -40,6 +40,12 @@
   404 (nach einem Wiederholungsversuch zur Sicherheit), setze
   `status: "sold"` bei diesem Objekt. Ändere sonst nichts an dem
   Objekt. Objekte ohne `status`-Feld gelten als weiterhin verfügbar.
+
+  MAKLER: Erfasse zusätzlich das Feld `agency` — Name der Immobilien-
+  Agentur/des Maklers laut Inserat (z.B. "Engel & Völkers", "Terra
+  Italia", "Giovanna Ardoino Immobiliare"). Falls das Inserat direkt
+  vom Eigentümer stammt (Privatverkauf), setze `agency: "Privat"`.
+  Falls kein Makler/Anbieter ermittelbar ist, `agency` leer lassen.
 -->
 
 <style>
@@ -371,7 +377,6 @@
   }
 
   .link-btn {
-    margin-top: auto;
     align-self: flex-start;
     font-family: 'Inter', sans-serif;
     font-size: 13px;
@@ -383,6 +388,25 @@
   }
 
   .link-btn:hover { color: var(--sea-deep); }
+
+  .card-footer {
+    margin-top: auto;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 8px;
+  }
+
+  .agency {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    color: var(--ink-soft);
+    text-align: right;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 45%;
+  }
 
   section.all-section { margin-top: 8px; }
 
@@ -2506,7 +2530,10 @@
             <span>${item.condition}</span>
           </div>
           <p class="note">${item.note}</p>
-          <a class="link-btn" href="${item.url}" target="_blank" rel="noopener">Zum Inserat →</a>
+          <div class="card-footer">
+            <a class="link-btn" href="${item.url}" target="_blank" rel="noopener">Zum Inserat →</a>
+            ${item.agency ? `<span class="agency">${item.agency}</span>` : ""}
+          </div>
         </div>
       </article>`;
   }
