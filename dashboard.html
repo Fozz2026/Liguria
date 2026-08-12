@@ -31,6 +31,15 @@
   leer lassen — die Kachel zeigt dann automatisch eine gestaltete
   Platzhalter-Illustration statt eines Fotos, das ist bereits im Code
   eingebaut und muss nicht extra behandelt werden.
+
+  SOLD-CHECK: Lösche NIEMALS ein bestehendes Objekt aus `listings`.
+  Prüfe stattdessen bei jedem Lauf ca. 1/4 der bestehenden Objekte
+  (rotierend, sodass nach 4 Läufen alle einmal geprüft wurden) durch
+  Aufruf der jeweiligen `url`. Führt der Aufruf zu einer "nicht mehr
+  verfügbar"-Meldung, einer Weiterleitung auf die Startseite oder einem
+  404 (nach einem Wiederholungsversuch zur Sicherheit), setze
+  `status: "sold"` bei diesem Objekt. Ändere sonst nichts an dem
+  Objekt. Objekte ohne `status`-Feld gelten als weiterhin verfügbar.
 -->
 
 <style>
@@ -202,6 +211,75 @@
 
   .card.is-new { border-color: var(--stamp); }
 
+  .card.is-sold { opacity: 0.55; filter: grayscale(0.6); }
+
+  .heart-btn {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    z-index: 3;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: none;
+    background: rgba(255,253,248,0.9);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding: 0;
+    transition: transform 0.1s ease;
+  }
+
+  .heart-btn:hover { transform: scale(1.08); }
+
+  .heart-btn svg { width: 16px; height: 16px; }
+
+  .heart-btn .heart-outline { stroke: var(--ink-soft); fill: none; stroke-width: 1.8; }
+
+  .heart-btn.is-fav .heart-outline { stroke: var(--stamp); fill: var(--stamp); }
+
+  .sold-stamp {
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    z-index: 2;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--ink-soft);
+    border: 1.5px solid var(--ink-soft);
+    border-radius: 3px;
+    padding: 3px 8px;
+    transform: rotate(-6deg);
+    background: rgba(255,253,248,0.9);
+    text-transform: uppercase;
+  }
+
+  section.fav-section { margin-bottom: 38px; }
+
+  section.fav-section .label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--sea-deep);
+    margin-bottom: 10px;
+    display: block;
+  }
+
+  section.sold-section { margin-top: 38px; }
+
+  section.sold-section .label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 10px;
+    display: block;
+  }
+
   .stamp {
     position: absolute;
     top: 14px;
@@ -355,6 +433,11 @@
     <div id="map"></div>
   </section>
 
+  <section class="fav-section" id="favSection" style="display:none;">
+    <span class="label">♥ Favoriten</span>
+    <div class="grid" id="favGrid"></div>
+  </section>
+
   <section class="new-section" id="newSection" style="display:none;">
     <span class="label">Neu seit letztem Mal</span>
     <div class="new-grid" id="newGrid"></div>
@@ -363,6 +446,11 @@
   <section class="all-section">
     <span class="label">Alle Objekte</span>
     <div class="grid" id="allGrid"></div>
+  </section>
+
+  <section class="sold-section" id="soldSection" style="display:none;">
+    <span class="label">Nicht mehr verfügbar</span>
+    <div class="grid" id="soldGrid"></div>
   </section>
 
   <footer id="footerNote"></footer>
@@ -2369,8 +2457,27 @@
   ];
   // ──────────────────────────────────────────────────────────────────────
 
+  // ── Favoriten (im Browser gespeichert, pro Gerät) ───────────────────
+  const FAV_KEY = "liguria-favorites";
+
+  function getFavorites() {
+    try {
+      return new Set(JSON.parse(localStorage.getItem(FAV_KEY) || "[]"));
+    } catch { return new Set(); }
+  }
+
+  function toggleFavorite(id) {
+    const favs = getFavorites();
+    favs.has(id) ? favs.delete(id) : favs.add(id);
+    localStorage.setItem(FAV_KEY, JSON.stringify([...favs]));
+    renderDashboard();
+  }
+
   function card(item) {
-    const stamp = item.isNew ? `<span class="stamp">Nuovo</span>` : "";
+    const isSold = item.status === "sold";
+    const stamp = item.isNew && !isSold ? `<span class="stamp">Nuovo</span>` : "";
+    const soldStamp = isSold ? `<span class="sold-stamp">Verkauft</span>` : "";
+    const isFav = getFavorites().has(item.id);
     const hasPhoto = Boolean(item.photo);
     const photoInner = hasPhoto
       ? `<img src="${item.photo}" alt="${item.title}">`
@@ -2381,8 +2488,11 @@
          </svg>
          <span class="ph-label">Kein Foto verfügbar</span>`;
     return `
-      <article class="card ${item.isNew ? "is-new" : ""}">
-        ${stamp}
+      <article class="card ${item.isNew && !isSold ? "is-new" : ""} ${isSold ? "is-sold" : ""}">
+        ${stamp}${soldStamp}
+        <button class="heart-btn ${isFav ? "is-fav" : ""}" onclick="toggleFavorite('${item.id}')" aria-label="Favorit">
+          <svg class="heart-outline" viewBox="0 0 24 24"><path d="M12 21s-7.5-4.6-10-9.1C.5 8.6 2.3 5 6 5c2 0 3.5 1.1 4.5 2.6C11.5 6.1 13 5 15 5c3.7 0 5.5 3.6 4 6.9C19.5 16.4 12 21 12 21z"/></svg>
+        </button>
         <a class="photo-link" href="${item.url}" target="_blank" rel="noopener">
           <div class="photo ${hasPhoto ? "" : "no-photo"}">${photoInner}</div>
         </a>
@@ -2402,8 +2512,12 @@
   }
 
   function renderDashboard() {
-    const newOnes = listings.filter(l => l.isNew);
-    const total = listings.length;
+    const active = listings.filter(l => l.status !== "sold");
+    const sold = listings.filter(l => l.status === "sold");
+    const newOnes = active.filter(l => l.isNew);
+    const favs = getFavorites();
+    const favOnes = listings.filter(l => favs.has(l.id));
+    const total = active.length;
 
     document.getElementById("statStrip").innerHTML = `
       <span>Aktualisiert: <b>${meta.lastUpdated}</b></span>
@@ -2412,15 +2526,31 @@
       <span>Preisrahmen: <b>${meta.priceRangeNote}</b></span>
     `;
 
+    if (favOnes.length > 0) {
+      document.getElementById("favSection").style.display = "";
+      document.getElementById("favGrid").innerHTML = favOnes.map(card).join("");
+    } else {
+      document.getElementById("favSection").style.display = "none";
+    }
+
     if (newOnes.length > 0) {
       document.getElementById("newSection").style.display = "";
       document.getElementById("newGrid").innerHTML = newOnes.map(card).join("");
+    } else {
+      document.getElementById("newSection").style.display = "none";
     }
 
     const allGrid = document.getElementById("allGrid");
-    allGrid.innerHTML = total
-      ? listings.map(card).join("")
+    allGrid.innerHTML = active.length
+      ? active.map(card).join("")
       : `<div class="empty">Aktuell keine passenden Objekte gefunden.</div>`;
+
+    if (sold.length > 0) {
+      document.getElementById("soldSection").style.display = "";
+      document.getElementById("soldGrid").innerHTML = sold.map(card).join("");
+    } else {
+      document.getElementById("soldSection").style.display = "none";
+    }
 
     document.getElementById("footerNote").textContent =
       `Nächste Aktualisierung: ${meta.nextUpdate} · Automatisch erstellt von der Claude Code Routine`;
@@ -2433,7 +2563,8 @@
   }
 
   function renderMap() {
-    const points = listings.map(coordsFor).filter(Boolean);
+    const active = listings.filter(l => l.status !== "sold");
+    const points = active.map(coordsFor).filter(Boolean);
     if (points.length === 0) return;
 
     const map = L.map('map', { scrollWheelZoom: false });
@@ -2443,7 +2574,7 @@
     }).addTo(map);
 
     const markers = [];
-    listings.forEach(item => {
+    active.forEach(item => {
       const pos = coordsFor(item);
       if (!pos) return;
 
