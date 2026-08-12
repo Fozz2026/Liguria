@@ -22,6 +22,15 @@
   dort mit den korrekten Koordinaten (WGS84).
   Setze isNew:true nur für Objekte, die seit dem letzten Lauf neu
   hinzugekommen sind (Abgleich über id gegen listings.json im Repo).
+
+  PFLICHT-FOTO: Öffne für JEDES Objekt (auch bereits bekannte aus
+  früheren Läufen ohne Foto) die Detailseite direkt und extrahiere eine
+  Bild-URL für `photo`. Am zuverlässigsten: das og:image-Meta-Tag im
+  <head> der Seite. Erst wenn das fehlt, das erste Galerie-Bild
+  versuchen. Nur wenn wirklich keine Bild-URL auffindbar ist, `photo`
+  leer lassen — die Kachel zeigt dann automatisch eine gestaltete
+  Platzhalter-Illustration statt eines Fotos, das ist bereits im Code
+  eingebaut und muss nicht extra behandelt werden.
 -->
 
 <style>
@@ -210,13 +219,33 @@
     text-transform: uppercase;
   }
 
+  .photo-link { display: block; }
+
   .photo {
     aspect-ratio: 4/3;
     background: var(--line) center/cover no-repeat;
     position: relative;
+    overflow: hidden;
   }
 
   .photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+  .photo.no-photo { display: flex; align-items: center; justify-content: center; }
+
+  .ph-illustration { width: 58%; height: 58%; opacity: 0.9; }
+
+  .ph-label {
+    position: absolute;
+    bottom: 8px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.04em;
+    color: var(--ink-soft);
+    text-transform: uppercase;
+  }
 
   .body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
 
@@ -2342,13 +2371,21 @@
 
   function card(item) {
     const stamp = item.isNew ? `<span class="stamp">Nuovo</span>` : "";
-    const photoContent = item.photo
+    const hasPhoto = Boolean(item.photo);
+    const photoInner = hasPhoto
       ? `<img src="${item.photo}" alt="${item.title}">`
-      : "";
+      : `<svg class="ph-illustration" viewBox="0 0 100 75" xmlns="http://www.w3.org/2000/svg">
+           <circle cx="78" cy="18" r="8" fill="var(--sun)" opacity="0.6"/>
+           <path d="M0 55 L20 35 L35 50 L55 25 L75 48 L100 32 L100 75 L0 75 Z" fill="var(--olive)" opacity="0.5"/>
+           <path d="M0 62 Q25 55 50 62 T100 62 L100 75 L0 75 Z" fill="var(--sea)" opacity="0.55"/>
+         </svg>
+         <span class="ph-label">Kein Foto verfügbar</span>`;
     return `
       <article class="card ${item.isNew ? "is-new" : ""}">
         ${stamp}
-        <div class="photo">${photoContent}</div>
+        <a class="photo-link" href="${item.url}" target="_blank" rel="noopener">
+          <div class="photo ${hasPhoto ? "" : "no-photo"}">${photoInner}</div>
+        </a>
         <div class="body">
           <span class="town">${item.town}</span>
           <h3 class="title">${item.title}</h3>
