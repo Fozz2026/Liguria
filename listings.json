@@ -894,7 +894,7 @@
     "url": "https://www.immobiliare.it/annunci/127545920/",
     "photo": "https://pwm.im-cdn.it/image/1886989544/cover-m-c.jpg",
     "note": "3 Schlafzimmer, privater Garten mit zwei Terrassen, Fotovoltaikanlage, teilweise möbliert. Sehr guter, bezugsfertiger Zustand.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "diano-marina-villa-ristrutturare-71",
@@ -907,7 +907,7 @@
     "url": "https://www.immobiliare.it/annunci/124702689/",
     "photo": "https://pwm.im-cdn.it/image/1819132581/cover-m-c.jpg",
     "note": "4 Schlafzimmer, weitläufiger Garten mit alten Palmen und Springbrunnen, Meerblick. Sanierungsbedarf, aber viel Potenzial.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-villa-liberty-72",
@@ -920,7 +920,7 @@
     "url": "https://www.immobiliare.it/annunci/131480630/",
     "photo": "https://pwm.im-cdn.it/image/1982186576/cover-m-c.jpg",
     "note": "Lage: Porto Maurizio. 3 Schlafzimmer, Jugendstil-Villa mit originalen Details, unabhängige Einliegerwohnung im Untergeschoss.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "dolceacqua-landhaus-pool-73",
@@ -933,7 +933,7 @@
     "url": "https://www.immobiliare.it/annunci/129566794/",
     "photo": "https://pwm.im-cdn.it/image/1945661030/cover-m-c.jpg",
     "note": "2 Schlafzimmer, komplett saniert, Pool, Terrasse, elektrisches Tor. Gepflegtes Anwesen mit landwirtschaftlicher Fläche.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "santo-stefano-villa-terreno-74",
@@ -946,7 +946,7 @@
     "url": "https://www.immobiliare.it/annunci/131204918/",
     "photo": "https://pwm.im-cdn.it/image/1975368720/cover-m-c.jpg",
     "note": "3 Schlafzimmer, Panoramaterrasse mit Meerblick, Lagerraum, nur 1,7 km bis zum Meer.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "bordighera-villa-pool-75",
@@ -959,7 +959,7 @@
     "url": "https://www.immobiliare.it/annunci/125375939/",
     "photo": "",
     "note": "4 Schlafzimmer, Pool mit Meerblick, Garage, hochwertige Ausstattung in der Bucht Baia Verde.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-torrazza-villa-pool-76",
@@ -972,7 +972,7 @@
     "url": "https://www.immobiliare.it/annunci/131302730/",
     "photo": "https://pwm.im-cdn.it/image/1977814428/cover-m-c.jpg",
     "note": "Lage: Torrazza. 4 Schlafzimmer, Pool, Olivenbäume, Solaranlage, ca. 4 km bis zum Meer.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "san-bartolomeo-bifamiliare-77",
@@ -985,7 +985,7 @@
     "url": "https://www.immobiliare.it/annunci/128739190/",
     "photo": "",
     "note": "6 Schlafzimmer verteilt auf zwei Wohneinheiten, barrierefrei, auch als Kapitalanlage geeignet.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-poggi-villa-pool-78",
@@ -998,7 +998,7 @@
     "url": "https://www.immobiliare.it/annunci/129839280/",
     "photo": "",
     "note": "Lage: Poggi/Civezza. 2 Schlafzimmer, Pool, zusätzliches renovierungsbedürftiges Nebengebäude (50 m²), Hügellage 5 km vom Meer.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "castellaro-villa-mehrfamilien-79",
@@ -1011,7 +1011,7 @@
     "url": "https://www.immobiliare.it/annunci/115591253/",
     "photo": "https://pwm.im-cdn.it/image/1618851493/cover-m-c.jpg",
     "note": "Aktuell in mehrere unabhängige Einheiten unterteilt (insgesamt ca. 12 Zimmer), Umbau zu Einfamilienhaus möglich, separates Gästehaus.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "ventimiglia-roverino-villa-80",
@@ -1024,7 +1024,7 @@
     "url": "https://www.immobiliare.it/annunci/128302314/",
     "photo": "https://pwm.im-cdn.it/image/1905435886/cover-m-c.jpg",
     "note": "Lage: Roverino/San Secondo. 6 Schlafzimmer, Obstbäume, mehrere Stellplätze, mehrstöckige Villa mit Mansarde.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "ventimiglia-seglia-villa-81",
@@ -1037,7 +1037,7 @@
     "url": "https://www.immobiliare.it/annunci/130022488/",
     "photo": "",
     "note": "Lage: Seglia/Sant'Anna. 5 Schlafzimmer, Meerblick, Kamin, Garage und Keller, autonome Heizung.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "bordighera-centro-villa-82",
@@ -1050,7 +1050,7 @@
     "url": "https://www.immobiliare.it/annunci/128394066/",
     "photo": "https://pwm.im-cdn.it/image/1907742742/xxs-c.jpg",
     "note": "3 Schlafzimmer, ebenerdig, Meerblick, nur 3 Gehminuten zum Strand, Glasfaseranschluss.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "ventimiglia-seglia-villa-garten-83",
@@ -1063,7 +1063,7 @@
     "url": "https://www.immobiliare.it/annunci/129006402/",
     "photo": "https://pwm.im-cdn.it/image/1922453342/cover-m-c.jpg",
     "note": "Lage: Seglia/Sant'Anna. 4 Schlafzimmer, Meerblick, Terrasse, Poolpotenzial dank großzügigem Garten, 2 Garagenplätze.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "vallebona-villa-giardino-84",
@@ -1076,7 +1076,7 @@
     "url": "https://www.immobiliare.it/annunci/122358480/",
     "photo": "https://pwm.im-cdn.it/image/1760884672/cover-m-c.jpg",
     "note": "5 Schlafzimmer, Meerblick, gepflegter Garten mit Platz für einen Pool, nahe Bordighera.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "diano-castello-villa-neubau-85",
@@ -1089,7 +1089,7 @@
     "url": "https://www.immobiliare.it/annunci/125554105/",
     "photo": "",
     "note": "Lage: Diano Arentino/Villatalla. 2-3 Schlafzimmer, moderner Neubau auf einer Ebene, große Panoramaterrasse.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "bordighera-montenero-villa-86",
@@ -1102,7 +1102,7 @@
     "url": "https://www.immobiliare.it/annunci/123551851/",
     "photo": "https://pwm.im-cdn.it/image/1910412998/cover-m-c.jpg",
     "note": "2 Schlafzimmer, Steinmauern, ungenutztes Baurecht für Erweiterung, zentrale Lage.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "sanremo-capo-nero-villa-87",
@@ -1115,7 +1115,7 @@
     "url": "https://www.immobiliare.it/annunci/126203421/",
     "photo": "https://pwm.im-cdn.it/image/1855193441/cover-m-c.jpg",
     "note": "Lage: Foce-Semeria. 4 Schlafzimmer, Meerblick, eine Wohnung bereits saniert, zweite Wohnung und Außenbereiche benötigen Renovierung.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "perinaldo-villa-pool-88",
@@ -1128,7 +1128,7 @@
     "url": "https://www.immobiliare.it/annunci/129568294/",
     "photo": "https://pwm.im-cdn.it/image/1936364714/cover-m-c.jpg",
     "note": "3 Schlafzimmer, Pool, Fußbodenheizung, Solaranlage, historisches Zentrum in 5 Gehminuten erreichbar.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "sanremo-coldirodi-villa-89",
@@ -1141,7 +1141,7 @@
     "url": "https://www.immobiliare.it/annunci/129568308/",
     "photo": "https://pwm.im-cdn.it/image/1936364912/cover-m-c.jpg",
     "note": "Lage: Coldirodi. 5 Schlafzimmer, zwei Wohneinheiten (120 und 280 m²), englischer Rasen, Terrassen mit Meerblick.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-oneglia-villa-garten-90",
@@ -1154,7 +1154,7 @@
     "url": "https://www.immobiliare.it/annunci/126548059/",
     "photo": "",
     "note": "Lage: Oneglia/Cascine. 3 Schlafzimmer, terrassierter Garten mit Obstbäumen und Kräutern, Doppelgarage, Photovoltaik.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "diano-marina-villa-ristrutturare-91",
@@ -1167,7 +1167,7 @@
     "url": "https://www.immobiliare.it/annunci/131299592/",
     "photo": "https://pwm.im-cdn.it/image/1977740312/cover-m-c.jpg",
     "note": "3 Schlafzimmer, geräumiger privater Garten, teilweiser Meerblick, Garage.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "sanremo-san-sebastiano-villa-92",
@@ -1180,7 +1180,7 @@
     "url": "https://www.immobiliare.it/annunci/113787687/",
     "photo": "https://pwm.im-cdn.it/image/1558140209/cover-m-c.jpg",
     "note": "Lage: Foce-Semeria. 5+ Zimmer, zwei unabhängige Wohneinheiten, 360°-Terrasse, Garage für 4-5 Autos.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "bordighera-due-strade-neubau-93",
@@ -1193,7 +1193,7 @@
     "url": "https://www.immobiliare.it/annunci/71128122/",
     "photo": "https://pwm.im-cdn.it/image/1925659812/cover-m-c.jpg",
     "note": "2 Schlafzimmer, Neubau in Rohbauzustand mit Südausrichtung und Meerblick, Platz für privaten Pool.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "vallecrosia-villa-neubau-94",
@@ -1206,7 +1206,7 @@
     "url": "https://www.immobiliare.it/annunci/121584116/",
     "photo": "https://pwm.im-cdn.it/image/1738565078/cover-m-c.jpg",
     "note": "3 Schlafzimmer, Pool, Oliven-, Zitrus- und Obstbäume. Hinweis: Anzeige zuletzt im Juli 2025 aktualisiert, Verfügbarkeit ggf. prüfen.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "vallecrosia-villa-rohbau-95",
@@ -1219,7 +1219,7 @@
     "url": "https://www.immobiliare.it/annunci/128430354/",
     "photo": "https://pwm.im-cdn.it/image/1908596646/cover-m-c.jpg",
     "note": "2 Schlafzimmer geplant, 35 m² Pool und 100 m² Garage bereits vorhanden, Rohbau zur individuellen Fertigstellung.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "sanremo-inglesi-villa-96",
@@ -1232,7 +1232,7 @@
     "url": "https://www.immobiliare.it/annunci/130438954/",
     "photo": "https://pwm.im-cdn.it/image/1977778330/cover-m-c.jpg",
     "note": "2 Schlafzimmer, Terrassen mit Meerblick, 4 Stellplätze, ca. 1,5 km zum Strand.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "cervo-villa-pool-97",
@@ -1245,7 +1245,7 @@
     "url": "https://www.immobiliare.it/annunci/125539851/",
     "photo": "https://pwm.im-cdn.it/image/1839570109/cover-m-c.jpg",
     "note": "3 Schlafzimmer, Pool, barrierefrei (ebenerdig), Meerblick, vielfältige Bepflanzung.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-torrazza-villa-98",
@@ -1258,7 +1258,7 @@
     "url": "https://www.immobiliare.it/annunci/124873509/",
     "photo": "https://pwm.im-cdn.it/image/1823440491/cover-m-c.jpg",
     "note": "Lage: Torrazza. 3 Schlafzimmer, Terrassen mit Meerblick, Pergola mit Grillplatz, Lagerraum.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-poggi-villa-rosa-99",
@@ -1271,7 +1271,7 @@
     "url": "https://www.immobiliare.it/annunci/122522338/",
     "photo": "https://pwm.im-cdn.it/image/1765222740/cover-m-c.jpg",
     "note": "Lage: Poggi. 3 Schlafzimmer, Pool, 60 ertragreiche Olivenbäume, Photovoltaik, Meerblick.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "diano-marina-villa-garten-100",
@@ -1284,7 +1284,7 @@
     "url": "https://www.immobiliare.it/annunci/127114851/",
     "photo": "https://pwm.im-cdn.it/image/1917747588/cover-m-c.jpg",
     "note": "2 Schlafzimmer, möbliert, Kellerbereich mit Taverne, elektrisches Tor, 3 km bis zum Meer.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "riva-ligure-villa-101",
@@ -1297,7 +1297,7 @@
     "url": "https://www.immobiliare.it/annunci/130333980/",
     "photo": "https://pwm.im-cdn.it/image/1955082126/cover-m-c.jpg",
     "note": "3 Schlafzimmer (Angebot nennt teils 5), Panorama-Meerblick, Ausbaupotenzial, Baujahr 2000.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "cervo-poggio-villa-102",
@@ -1310,7 +1310,7 @@
     "url": "https://www.immobiliare.it/annunci/130481202/",
     "photo": "https://pwm.im-cdn.it/image/1958535824/cover-m-c.jpg",
     "note": "2 Schlafzimmer, offener Kamin, Terrasse mit Meerblick, freistehend auf allen vier Seiten.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-costa-oneglia-villa-103",
@@ -1323,7 +1323,7 @@
     "url": "https://www.immobiliare.it/annunci/126232707/",
     "photo": "https://pwm.im-cdn.it/image/1855902677/m-c.jpg",
     "note": "Lage: Costa d'Oneglia. 3 Schlafzimmer, teilbar in zwei Wohnungen, Meerblick, nahe Bahnhof und Autobahn.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-oneglia-villa-104",
@@ -1336,7 +1336,7 @@
     "url": "https://www.immobiliare.it/annunci/128844042/",
     "photo": "https://pwm.im-cdn.it/image/1918671152/cover-m-c.jpg",
     "note": "Lage: Oneglia. 6 Schlafzimmer, separate Einliegerwohnung (~100 m²), 180°-Meerblick, Doppelgarage.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "diano-marina-villa-pool-105",
@@ -1349,7 +1349,7 @@
     "url": "https://www.immobiliare.it/annunci/131273266/",
     "photo": "https://pwm.im-cdn.it/image/1977133816/cover-m-c.jpg",
     "note": "3 Schlafzimmer, 180°-Meerblick, Pool, zwei unabhängige Einheiten, 4 Stellplätze.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "taggia-centro-haus-106",
@@ -1362,7 +1362,7 @@
     "url": "https://www.immobiliare.it/annunci/130979672/",
     "photo": "",
     "note": "6 Zimmer/Schlafzimmer, Steinofen im Garten, Terrasse und Balkon, zentrale Lage.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "civezza-villa-olivenhain-107",
@@ -1375,7 +1375,7 @@
     "url": "https://www.immobiliare.it/annunci/126615401/",
     "photo": "",
     "note": "3 Schlafzimmer, teilbar in zwei Einheiten, unter 10 Minuten zum Strand von San Lorenzo.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "seborga-villa-park-108",
@@ -1388,7 +1388,7 @@
     "url": "https://www.immobiliare.it/annunci/129568290/",
     "photo": "",
     "note": "4 Schlafzimmer, 12x4m Überlaufpool, Gästehaus, Außenküche mit Holzofen, alte Olivenbäume.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "sanremo-marconi-villa-109",
@@ -1401,7 +1401,7 @@
     "url": "https://www.immobiliare.it/annunci/118690893/",
     "photo": "https://pwm.im-cdn.it/image/1657834213/cover-m-c.jpg",
     "note": "Lage: Foce-Semeria. 3 Schlafzimmer, Meerblick, ca. 100 m zum Strand, Potenzial für Garage und Pool.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-torrazza-landhaus-110",
@@ -1414,7 +1414,7 @@
     "url": "https://www.immobiliare.it/annunci/120142500/",
     "photo": "https://pwm.im-cdn.it/image/1847935369/cover-m-c.jpg",
     "note": "Lage: Torrazza. 4 Schlafzimmer, ebenes Grundstück, Aufteilung in Villa oder zwei Wohneinheiten möglich, 3 Minuten zum Meer.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-torrazza-rustico-111",
@@ -1427,7 +1427,7 @@
     "url": "https://www.immobiliare.it/annunci/117211635/",
     "photo": "https://pwm.im-cdn.it/image/1926886206/cover-m-c.jpg",
     "note": "Lage: Torrazza. 4 Schlafzimmer, freiliegende Balkendecken, Steinlagerräume, Potenzial für Agriturismo/B&B, unter 2 km zum Zentrum.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "dolcedo-bellissimi-landhaus-112",
@@ -1440,7 +1440,7 @@
     "url": "https://www.immobiliare.it/annunci/126999867/",
     "photo": "https://pwm.im-cdn.it/image/1877875393/cover-m-c.jpg",
     "note": "Lage: Bellissimi. 4 Schlafzimmer, eingezäunter Garten mit Meerblick und Poolpotenzial, Baujahr 1900.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "diano-san-pietro-rustico-113",
@@ -1453,7 +1453,7 @@
     "url": "https://www.immobiliare.it/annunci/112634957/",
     "photo": "https://pwm.im-cdn.it/image/1967797306/cover-m-c.jpg",
     "note": "2 Schlafzimmer, separates Gästehaus mit Balkon, Terrassen mit Meer- und Hügelblick.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "diano-san-pietro-rustico-torre-114",
@@ -1466,7 +1466,7 @@
     "url": "https://www.immobiliare.it/annunci/131311566/",
     "photo": "https://pwm.im-cdn.it/image/1978025014/cover-m-c.jpg",
     "note": "2 Schlafzimmer, restaurierter Steinturm, zweites Nebengebäude (55 m²), Meerblick.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "taggia-arma-rustico-115",
@@ -1479,7 +1479,7 @@
     "url": "https://www.immobiliare.it/annunci/125200683/",
     "photo": "https://pwm.im-cdn.it/image/1831339089/xxs-c.jpg",
     "note": "Lage: Arma di Taggia. 2 Schlafzimmer, Meerblick, Baupotenzial für ca. 530 m³ Neubau, Garage und Lagerraum.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "sanremo-verezzo-haus-116",
@@ -1492,7 +1492,7 @@
     "url": "https://www.immobiliare.it/annunci/128877268/",
     "photo": "https://pwm.im-cdn.it/image/1919467436/xxs-c.jpg",
     "note": "Lage: Verezzo. 5 Schlafzimmer, Gemüsegarten mit zwei Gewächshäusern, Grillplatz, auch als Investment geeignet.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "cipressa-steinhaus-1300-117",
@@ -1505,7 +1505,7 @@
     "url": "https://www.immobiliare.it/annunci/128614228/",
     "photo": "",
     "note": "2 Schlafzimmer, mittelalterliches Gebäude aus dem Jahr 1300, zwei Terrassen mit Meerblick, privater Parkplatz.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "ranzo-landhaus-118",
@@ -1518,7 +1518,7 @@
     "url": "https://www.immobiliare.it/annunci/127697066/",
     "photo": "https://pwm.im-cdn.it/image/1890740924/cover-m-c.jpg",
     "note": "3 Schlafzimmer, historisches Landhaus mit eigener Bio-Olivenölproduktion, Pergola und Innenhof.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "dolceacqua-muehle-119",
@@ -1531,7 +1531,7 @@
     "url": "https://www.immobiliare.it/annunci/131383330/",
     "photo": "https://pwm.im-cdn.it/image/1979617098/cover-m-c.jpg",
     "note": "3 Schlafzimmer, ehemalige Mühle mit hohen Decken und Empore, drei unabhängige Einheiten mit Vermietungspotenzial, 5 Gehminuten vom mittelalterlichen Dorf entfernt.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "cipressa-rustico-mehrere-120",
@@ -1544,7 +1544,7 @@
     "url": "https://www.immobiliare.it/annunci/124367763/",
     "photo": "https://pwm.im-cdn.it/image/1810996251/cover-m-c.jpg",
     "note": "Insgesamt 13 Zimmer verteilt auf 5 Einheiten (Studios bis 3-Zimmer-Wohnungen), Tal- und Meerblick, in einem der schönsten Dörfer Italiens.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "civezza-historisches-steinhaus-121",
@@ -1557,7 +1557,7 @@
     "url": "https://www.casa.it/immobili/53389082/",
     "photo": "https://images-1.casa.it/360x275/listing/0/72/d0/65/158351217.jpg",
     "note": "Viergeschossiges Rustico mit Originalböden, historischem Ofen, intakter Olivenmühle und drei Bädern (mehrere Schlafbereiche) - geeignet für Agriturismo/B&B. Seltener privater Parkplatz.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "perinaldo-castello-2einheiten-122",
@@ -1570,7 +1570,7 @@
     "url": "https://www.casa.it/immobili/51629580/",
     "photo": "https://images-1.casa.it/360x275/listing/0/5d/78/02/696948523.jpg",
     "note": "Zwei Wohneinheiten (4 + 1 Schlafzimmer) in ehemaliger Festung im mittelalterlichen Bergdorf. Blick auf Meer und Seealpen, historischer Weinkeller.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "diano-san-pietro-rustico-gaestehaus-123",
@@ -1583,7 +1583,7 @@
     "url": "https://www.casa.it/immobili/44287658/",
     "photo": "https://images-1.casa.it/360x275/listing/0/9f/19/a1/143860247.jpg",
     "note": "2 Schlafzimmer im Hauptgebäude plus separates 25 m² Gästehäuschen mit eigenem Schlafzimmer. 1.000 m² Garten mit Meerblick, Gas-/Pelletheizung.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "san-biagio-della-cima-olivenmuehle-124",
@@ -1596,7 +1596,7 @@
     "url": "https://www.casa.it/immobili/51411714/",
     "photo": "https://images-1.casa.it/360x275/listing/0/46/cd/26/688652876.jpg",
     "note": "Ehemalige, restaurierte Olivenmühle mit 2 Schlafzimmern, aktuell Agriturismo mit Restaurant/Bar. Weiteres Baupotenzial laut Bebauungsindex.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "diano-san-pietro-huegelhaus-gaestehaus-125",
@@ -1609,7 +1609,7 @@
     "url": "https://www.casa.it/immobili/49445127/",
     "photo": "https://images-1.casa.it/360x275/listing/0/ab/bc/93/818954644.jpg",
     "note": "Restauriertes Cottage mit Panoramaterrasse und Schlafzimmer, plus separates Gästehaus mit weiterem Schlafzimmer (zusammen 2). Neue Pelletheizung, 5 km zum Meer.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "ranzo-araca-farmhouse-126",
@@ -1622,7 +1622,7 @@
     "url": "https://www.casa.it/immobili/53603515/",
     "photo": "https://images-1.casa.it/360x275/listing/0/d6/42/1d/784360429.jpg",
     "note": "Bauernhaus aus dem 16. Jh. mit Originalstein, 3 Schlafzimmern, 3 Bädern, mediterranem Garten und eigenem Olivenhain für Taggiasca-Öl.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "ventimiglia-torri-calvo-steinhaus-127",
@@ -1635,7 +1635,7 @@
     "url": "https://www.idealista.it/immobile/28790675/",
     "photo": "https://img4.idealista.it/blur/WEB_DETAIL_TOP-L-L/0/id.pro.it.image.master/8b/f3/a6/566308203.jpg",
     "note": "Lage: Torri-Calvo-Villatella. Steinhaus auf 400 m Höhe mit Tonnengewölbe, 2 Schlafzimmern (Hauptschlafzimmer en-suite), Pelletkamin und Sea-View-Whirlpool im Garten.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "pigna-naturpark-steinhaus-128",
@@ -1648,7 +1648,7 @@
     "url": "https://www.idealista.it/immobile/30492669/",
     "photo": "https://img4.idealista.it/blur/WEB_DETAIL_TOP-L-L/0/id.pro.it.image.master/36/32/80/624372898.jpg",
     "note": "Alleinstehendes Steinhaus im Regionalpark der ligurischen Alpen mit 2 Schlafzimmern, Kamin und vier Hektar Land - ideal für ein Agriturismo-Projekt (Preis verhandelbar).",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-borgo-santagata-villa-129",
@@ -1661,7 +1661,7 @@
     "url": "https://www.casa.it/immobili/54251095/",
     "photo": "https://images-1.casa.it/360x275/listing/0/b1/16/9a/812956274.jpg",
     "note": "Lage: Borgo Sant'Agata. Freistehende Villa mit 4 Schlafzimmern (2 pro Einheit), Meerblick-Terrasse, Photovoltaik und Garage. Zwei unabhängige Wohneinheiten.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-oneglia-villa-pool-130",
@@ -1674,7 +1674,7 @@
     "url": "https://www.casa.it/immobili/51903196/",
     "photo": "https://images-1.casa.it/360x275/listing/0/f5/a5/31/725358177.jpg",
     "note": "Lage: Oneglia. Ligurische Villa mit Natursteinmauern, Terrakottaböden, 3 Schlafzimmern, 45 m² Pool und Doppelgarage nahe der Fußgängerzone.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "sanremo-villetta-san-martino-villa-131",
@@ -1687,7 +1687,7 @@
     "url": "https://www.casa.it/immobili/54491160/",
     "photo": "https://images-1.casa.it/360x275/listing/0/a2/55/37/823077228.jpg",
     "note": "Lage: Villetta-San Martino. Elegante dreistöckige Villa mit 3 Schlafzimmern (Master-Suite im Dachgeschoss), Doppelgarage, Wärmepumpe, Photovoltaik, Poolmöglichkeit.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "diano-marina-villa-olivenhain-132",
@@ -1700,7 +1700,7 @@
     "url": "https://www.casa.it/immobili/45520706/",
     "photo": "https://images-1.casa.it/360x275/listing/0/df/21/a6/785718756.jpg",
     "note": "Freistehende, zweigeschossige Villa mit 4 Schlafzimmern in Top-Zustand, großem Hof und ebenem Gelände für einen Pool, nur 2 km bis zum Meer.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-poggi-villa-meerblick-133",
@@ -1713,7 +1713,7 @@
     "url": "https://www.casa.it/immobili/53401161/",
     "photo": "https://images-1.casa.it/360x275/listing/0/ee/24/b1/775700689.jpg",
     "note": "Lage: Poggi. Zweigeschossige Villa in Hügellage, aufgeteilt in Hauptwohnung plus zwei weitere Apartments mit mehreren Schlafzimmern. Pergola mit Außenküche, Garage.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "seborga-villa-neubau-134",
@@ -1726,7 +1726,7 @@
     "url": "https://www.casa.it/immobili/54305205/",
     "photo": "https://images-1.casa.it/360x275/listing/0/45/6a/e8/815822790.jpg",
     "note": "Moderne dreistöckige Neubauvilla mit 5 Schlafzimmern, Energieklasse B, Wärmepumpe, ca. 90 m² Terrassen, nur 1 km vom Zentrum Seborgas.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-oneglia-villa-limoni-pool-135",
@@ -1739,7 +1739,7 @@
     "url": "https://www.casa.it/immobili/53324640/",
     "photo": "https://images-1.casa.it/360x275/listing/0/f5/79/8e/771874951.jpg",
     "note": "Villa in den Hügeln über Imperia mit Meerblick, Pool, 2 Schlafzimmern, Doppelgarage und terrakottagepflasterten Gartenwegen.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "imperia-porto-maurizio-villa-olivenhain-136",
@@ -1752,7 +1752,7 @@
     "url": "https://www.casa.it/immobili/54199562/",
     "photo": "https://images-1.casa.it/360x275/listing/0/9c/65/33/811203024.jpg",
     "note": "Lage: Porto Maurizio. Exklusive Villa mit 3 Schlafzimmern (je en-suite), venezianischem Stuck, Terrakottaböden. 5.000 m² Olivenhain auf zwei Parzellen, barrierefrei.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "camporosso-trinita-villa-terreno-137",
@@ -1765,7 +1765,7 @@
     "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=2583299&language=ita",
     "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/2583299/F_405328.jpg",
     "note": "Zweigeschossige Villa mit 2 unabhängigen Wohneinheiten, 6 Schlafzimmer insgesamt, umgeben von Oliven- und Obstbäumen mit Panorama- und Meerblick. Hügellage in Camporosso, guter Ausgangszustand mit Ausbaupotenzial im Dachgeschoss.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "camporosso-braie-villa-panorama-138",
@@ -1778,7 +1778,7 @@
     "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=2580636&language=ita",
     "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/2580636/F_157121.jpg",
     "note": "Lage: Zona Braie. Unabhängige zweistöckige Villa mit 4 Schlafzimmern, Wohnzimmer, offener Küche und Loggia im Obergeschoss; im Untergeschoss Taverne mit zwei weiteren Zimmern (als separate Wohneinheit nutzbar). Großzügiges, teils bewaldetes Grundstück mit Grillplatz, ca. 1,5 km vom Ortszentrum entfernt.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "camporosso-ciaixe-villa-garten-139",
@@ -1791,7 +1791,7 @@
     "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=2539118&language=ita",
     "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/2539118/F_625852.jpg",
     "note": "Lage: Zona Ciaixe. Möblierte, zweigeschossige Villa mit 4 Schlafzimmern, 2 Bädern und Meerblick. Eigenständige Heizung, Energieklasse D, freistehende Doppelgarage (27 m²), Entfernung zum Meer über 2 km.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "camporosso-zentrum-villa-bifamiliare-140",
@@ -1804,7 +1804,7 @@
     "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=2514202&language=ita",
     "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/2514202/F_132480.jpg",
     "note": "Zweistöckige Villa mit 5 Schlafzimmern, 3 Bädern, Kamin und Doppelgarage (30 m²), Baujahr 2000. Preis von 510.000 € auf 490.000 € reduziert, nur ca. 1 km vom Meer entfernt, sofort bezugsfertig.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "bordighera-meerblick-garten-villa-141",
@@ -1817,7 +1817,7 @@
     "url": "https://www.aquamarinarealestate.com/bordighera-villa-vista-mare-in-vendita-rv3396",
     "photo": "https://www.aquamarinarealestate.com/immagini_immobili/full/12047.jpg",
     "note": "Villa mit 4 Schlafzimmern, 3 Bädern und 6 Zimmern insgesamt, privatem Garten, Terrasse, Keller und Garage. Preis kürzlich reduziert, Energieklasse C, ca. 3,5 km vom Meer entfernt.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "cipressa-aregai-villa-meerblick-142",
@@ -1830,7 +1830,7 @@
     "url": "https://www.aquamarinarealestate.com/cipressa-villa-singola-vista-mare",
     "photo": "https://www.aquamarinarealestate.com/immagini_immobili/full/12355.jpg",
     "note": "Lage: Fraktion Aregai. Alleinstehende Villa mit 2 Schlafzimmern, offenem Wohn-/Küchenbereich, überdachter Veranda und unterirdischem Lagerraum (115 m²). Großzügiges Grundstück mit herrlichem Meerblick, Garage vorhanden.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "seborga-villa-neuwertig-meerblick-143",
@@ -1843,7 +1843,7 @@
     "url": "https://www.aquamarinarealestate.com/seborga-villa-vista-mare-in-vendita",
     "photo": "https://www.aquamarinarealestate.com/immagini_immobili/full/12303.jpg",
     "note": "Neuwertige, zweistöckige Villa mit 4 Schlafzimmern, 3 Bädern, separater Gästewohnung, großer Garage/Lagerraum, Außenküche und Pool. Ruhige Wohnlage nahe Ortszentrum, sofort bezugsfertig.",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "dolceacqua-altstadt-steinhaus-144",
@@ -1856,6 +1856,97 @@
     "url": "https://www.engelvoelkers.com/it/en/exposes/fcd32af8-c186-596a-8880-4b14d95620ca",
     "photo": "https://uploadcare.engelvoelkers.com/3fee73d1-279d-4c5c-afe4-5d63ddb00738/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/",
     "note": "2 Schlafzimmer, 3 Bäder, historisches Steinhaus über 3 Etagen mit Balkon, Keller und Terrasse im malerischen Altstadtkern von Dolceacqua. Bereits renoviert (nicht renovierungsbedürftig), guter Einstiegspreis im Zielbudget, aber ohne eigenes Grundstück/Garten.",
+    "isNew": false
+  },
+  {
+    "id": "dolceacqua-stadthaus-naturstein-145",
+    "title": "Freistehendes Natursteinhaus mit 3 Schlafzimmern",
+    "town": "Dolceacqua",
+    "price": "€ 325.000",
+    "sqm": "120 m²",
+    "plotSqm": "kein eigenes Grundstück (Stadthaus)",
+    "condition": "Kernsaniert (2013–2015), Naturstein, Zustand wie neu",
+    "url": "https://www.terra-italia.com/property/exceptional-3-bedroom-townhouse-for-sale-in-dolceacqua/",
+    "photo": "https://www.terra-italia.com/wp-content/uploads/2026/03/DA884_TERR_NEW-1170x785.jpeg",
+    "note": "3 Schlafzimmer, 2 Bäder. Freistehendes Natursteinhaus (an drei Seiten frei) im historischen Zentrum, 15 m² Dachterrasse mit Blick auf Altstadt und Castello Doria, Fußbodenheizung und Holzofen. Kein eigenes Grundstück, aber sehr gutes Preis-Leistungs-Verhältnis für die hochwertige Sanierung.",
+    "isNew": true
+  },
+  {
+    "id": "dolceacqua-villa-pool-neubau-146",
+    "title": "Neubau-Villa mit Infinity-Pool und Blick auf die Burg",
+    "town": "Dolceacqua",
+    "price": "€ 690.000",
+    "sqm": "115 m²",
+    "plotSqm": "Gartengrundstück mit Pool (Größe nicht angegeben)",
+    "condition": "Neubau",
+    "url": "https://www.agenzia-domus.com/en/property/ag-dom-f164-newly-built-detached-villa-with-infinity-pool-and-enchanting-views-of-dolceacqua-castle/",
+    "photo": "https://www.agenzia-domus.com/wp-content/uploads/2026/07/Ada-21.jpg",
+    "note": "3 Schlafzimmer (Ausbaupotenzial für ein viertes). Neu gebaute freistehende Villa mit Infinity-Pool zwischen Weinbergen und Olivenhainen, direkter Blick auf die Burg von Dolceacqua. Modernes Objekt mit attraktivem Preis-Leistungs-Verhältnis.",
+    "isNew": true
+  },
+  {
+    "id": "bordighera-arziglia-haus-147",
+    "title": "Haus in Arziglia, nur wenige Schritte vom Meer",
+    "town": "Bordighera",
+    "price": "€ 550.000",
+    "sqm": "145 m²",
+    "plotSqm": "privater Garten (Größe nicht angegeben)",
+    "condition": "Bezugsfertig, ebenerdig",
+    "url": "https://www.dussaica.com/casa-indipendente-in-vendita-a-bordighera_3169438.html",
+    "photo": "https://storage.googleapis.com/birgus/annunci/3169438/small_65378186.jpg",
+    "note": "3 Schlafzimmer. Ebenerdiges, bezugsfertiges Haus in der begehrten Arziglia-Zone nur wenige Gehminuten vom Meer, mit privatem Garten und autonomer Wärmepumpenheizung. Gut geeignet als Feriendomizil oder Kapitalanlage, allerdings ohne ausgewiesene große Grundstücksfläche.",
+    "isNew": true
+  },
+  {
+    "id": "soldano-villa-renoviert-148",
+    "title": "Teilrenovierte Villa mit Grundstück",
+    "town": "Soldano",
+    "price": "€ 360.000",
+    "sqm": "207 m²",
+    "plotSqm": "1.700 m² Grundstück",
+    "condition": "Kürzlich renoviert, bezugsfertig",
+    "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=2587758&language=ita",
+    "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/2587758/F_408300.jpg",
+    "note": "3 Schlafzimmer. Kürzlich renovierte, bezugsfertige Villa mit 1.700 m² Grundstück und Ausbaupotenzial im Dachgeschoss, ruhige Panoramalage nahe dem Ortszentrum. Solides Preis-Leistungs-Verhältnis im unteren Preissegment.",
+    "isNew": true
+  },
+  {
+    "id": "ventimiglia-hoehen-haus-149",
+    "title": "Freistehendes Haus in den Höhen von Ventimiglia",
+    "town": "Ventimiglia",
+    "price": "€ 560.000",
+    "sqm": "160 m²",
+    "plotSqm": "1.200 m² Grundstück",
+    "condition": "Vollständig renoviert",
+    "url": "https://www.aquamarinarealestate.com/ventimiglia-casa-indipendente-vendita-r14124",
+    "photo": "https://www.aquamarinarealestate.com/immagini_immobili/full/12730.jpg",
+    "note": "3 Schlafzimmer. Vollständig renoviertes freistehendes Haus in grüner Höhenlage mit 1.200 m² Grundstück, Photovoltaikanlage und Batteriespeicher; leicht in zwei Wohneinheiten teilbar. Moderne Ausstattung und guter Zustand.",
+    "isNew": true
+  },
+  {
+    "id": "bordighera-villa-mare-sanierung-150",
+    "title": "Villa mit Meerblick, sanierungsbedürftig",
+    "town": "Bordighera",
+    "price": "€ 950.000",
+    "sqm": "200 m²",
+    "plotSqm": "800 m² Grundstück (privater Park)",
+    "condition": "Renovierungsbedürftig, Baujahr 1980er",
+    "url": "https://www.aquamarinarealestate.com/villa-vista-mare-a-bordighera",
+    "photo": "https://www.aquamarinarealestate.com/immagini_immobili/full/12745.jpg",
+    "note": "3 Schlafzimmer. Panoramavilla der 1980er Jahre mit 800 m² Privatpark und Meerblick bis zur Côte d'Azur, jedoch sanierungsbedürftig. Potenzial für Pool und Garagenausbau, Energieklasse G.",
+    "isNew": true
+  },
+  {
+    "id": "sanremo-villa-garten-sanierung-151",
+    "title": "Villa mit Meerblick und Garten, sanierungsbedürftig",
+    "town": "Sanremo",
+    "price": "€ 1.000.000",
+    "sqm": "419 m²",
+    "plotSqm": "Großzügiger privater Garten (Größe nicht angegeben)",
+    "condition": "Komplett sanierungsbedürftig, mit Gästehaus",
+    "url": "https://www.aquamarinarealestate.com/sanremo-villa-vista-mare-con-giardino",
+    "photo": "https://www.aquamarinarealestate.com/immagini_immobili/full/12804.jpg",
+    "note": "5 Schlafzimmer. Freistehende Villa mit separatem Gästehaus in großzügigem, ruhigem Garten nahe Corso Inglesi, komplett sanierungsbedürftig. Hohes Potenzial durch großzügige Wohnfläche, aber am oberen Rand des Budgets (genau 1.000.000 €).",
     "isNew": true
   }
 ]
