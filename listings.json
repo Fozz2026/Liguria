@@ -12,7 +12,7 @@
     "note": "2 Schlafzimmer (+ Gästezimmer im Nebenhaus). Sonniger Südhang, separates 23 m² Gästehaus, Steinterrassen mit Oliven, Reben und Obstbäumen, 10 km bis zur Küste, nahe Fluss Nervia. Preis auf Portalen leicht abweichend (490.000–510.000 €) – vor Kontakt aktuellen Stand prüfen.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "apricale-due-famiglie-02",
@@ -27,7 +27,7 @@
     "note": "6 Schlafzimmer (2 unabhängige Wohneinheiten à 3). Olivenhain/Weinberg/Obstgarten, geeignet für Mehrgenerationen- oder Vermietungsnutzung, 13 km bis zum Meer.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "apricale-tenuta-ospiti-03",
@@ -42,7 +42,7 @@
     "note": "6 Schlafzimmer (2 unabhängige Häuser). Terrassiertes, eingezäuntes Grundstück mit Olivenhain, ca. 25 Min. bis Bordighera/Ventimiglia.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "apricale-borgo-ospiti-04",
@@ -57,7 +57,7 @@
     "note": "4 Schlafzimmer. Historisches Steinhaus im Dorfkern, 3 Panoramaterrassen inkl. Dachterrasse, kein eigener Garten/Stellplatz.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "perinaldo-villa-moderna-05",
@@ -72,7 +72,7 @@
     "note": "3 Schlafzimmer. Panoramablick auf Meer und Alpen, alte Oliventerrassen, komplett eingezäunt, Pool möglich, 25 Min. zum Strand Bordighera.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "perinaldo-villa-mare-06",
@@ -87,7 +87,7 @@
     "note": "4 Schlafzimmer. Am oberen Ende des Budgets. Garage, Poolbereich in Vorbereitung, von Zypressen gesäumte Privatzufahrt.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "perinaldo-casa-castello-07",
@@ -102,7 +102,7 @@
     "note": "4 Schlafzimmer. Ehemaliges Festungsgebäude, 5 Ebenen, 90 m² Panoramaterrasse, kein Garten/Grundstück.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "perinaldo-casa-storica-08",
@@ -117,7 +117,7 @@
     "note": "5 Schlafzimmer. Zwei Gebäudeteile (Casa Castello + Casa Torre), Gewölbekeller/Taverna, flexibel z. B. für B&B nutzbar.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "villafaraldi-villa-campagna-09",
@@ -132,7 +132,8 @@
     "note": "3 Schlafzimmer. Olivenhain mit ca. 28 Bäumen, aber abgelegen (15 Min. zum Strand, 90 Min. zum Flughafen).",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "15.09.2026",
+    "status": "sold"
   },
   {
     "id": "isolabona-podere-ib951-10",
@@ -147,7 +148,8 @@
     "note": "3 Schlafzimmer. Sehr große Landfläche, Pool, ca. 85 Olivenbäume; 90 m² unfertiges Untergeschoss zum Ausbau.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "15.09.2026",
+    "status": "sold"
   },
   {
     "id": "camporosso-villa-mare-11",
@@ -162,7 +164,7 @@
     "note": "5 Schlafzimmer. Aktuell in 4 Wohnungen aufgeteilt (Investment/Mehrgenerationen), Garten mit Oliven- und Obstbäumen.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "imperia-sanlorenzo-haus-12",
@@ -177,7 +179,7 @@
     "note": "2 Schlafzimmer. Zugang zum Radweg der ehemaligen Küstenbahnlinie.",
     "isNew": false,
     "agency": "Engel & Völkers",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "dianocastello-varcavello-13",
@@ -192,7 +194,7 @@
     "note": "3 Schlafzimmer. Zwei gewölbte Kellerräume erhalten.",
     "isNew": false,
     "agency": "Engel & Völkers",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "dianocastello-rohbau-villa-14",
@@ -207,7 +209,7 @@
     "note": "3 Schlafzimmer (geplant). Für Bauwillige mit klarem Sanierungsbudget – kompletter Ausbau nötig.",
     "isNew": false,
     "agency": "Engel & Völkers",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "dolcedo-bellissimi-villa-15",
@@ -222,7 +224,7 @@
     "note": "4 Schlafzimmer. Aktuell als Agriturismo betrieben – am oberen Ende des Budgets.",
     "isNew": false,
     "agency": "Engel & Völkers",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "dianomarina-villa-mare-16",
@@ -237,7 +239,7 @@
     "note": "2 Schlafzimmer. Direkt am Strand gelegen.",
     "isNew": false,
     "agency": "Engel & Völkers",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "dianoarentino-villatalla-17",
@@ -252,7 +254,7 @@
     "note": "3 Schlafzimmer. 3 km bis zum Meer.",
     "isNew": false,
     "agency": "Engel & Völkers",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "vasia-canneto-steinhaus-18",
@@ -267,7 +269,7 @@
     "note": "3 Schlafzimmer. Ortsteil Canneto, ca. 12 km von Imperia; privater Pool.",
     "isNew": false,
     "agency": "Engel & Völkers",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "imperia-caramagna-muehle-19",
@@ -282,7 +284,7 @@
     "note": "3 Schlafzimmer. Olivenhain, Teil des Anwesens bereits vermietet (Einnahmen möglich).",
     "isNew": false,
     "agency": "Engel & Völkers",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "dianocastello-santalucia-20",
@@ -313,7 +315,7 @@
     "note": "6 Schlafzimmer (4 Wohnungen). Angrenzendes gleich großes Grundstück separat für 100.000 € erhältlich.",
     "isNew": false,
     "agency": "Agenzia Domus",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "bordighera-bordigotta-22",
@@ -328,7 +330,7 @@
     "note": "2 Schlafzimmer. Bewirtschaftetes Land inkl. Gewächshaus.",
     "isNew": false,
     "agency": "Agenzia Domus",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "camporosso-trifamiliare-23",
@@ -343,7 +345,7 @@
     "note": "4 Schlafzimmer (3 Wohneinheiten). Eigener Pool.",
     "isNew": false,
     "agency": "Dussaica",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "dolceacqua-viacorsi-24",
@@ -373,7 +375,7 @@
     "note": "3 Schlafzimmer. Pool, Weinkeller, Holzbackofen.",
     "isNew": false,
     "agency": "",
-    "lastChecked": "22.08.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "sanremo-imp3218-26",
@@ -388,7 +390,7 @@
     "note": "6 Schlafzimmer. Am oberen Ende des Budgets.",
     "isNew": false,
     "agency": "Apolloni & Blom",
-    "lastChecked": "22.08.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "dolceacqua-torre-27",
@@ -403,7 +405,7 @@
     "note": "4 Schlafzimmer. Ehemaliger Wachturm der Doria-Burg im historischen Zentrum, kein Garten.",
     "isNew": false,
     "agency": "Agenzia Domus",
-    "lastChecked": "22.08.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "apricale-gouta-rustico-29",
@@ -516,7 +518,7 @@
     "note": "2 Schlafzimmer. Zweistöckiges Haus mit zwei separaten Wohneinheiten/Eingängen zwischen Dolceacqua und Isolabona, großzügiges Terrassengrundstück, Privatparkplatz für ca. 6 Autos, nahe einem Fluss mit natürlichen Wasserbecken.",
     "isNew": false,
     "agency": "Dussaica",
-    "lastChecked": "22.08.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "vallecrosia-concaverde-37",
@@ -531,7 +533,7 @@
     "note": "5 Schlafzimmer (4 im OG + 1 kleines im EG). Unabhängige Villa im Gebiet Conca Verde zwischen Vallecrosia und Bordighera, Rundum-Belichtung, Balkon mit Meerblick, Garage/Keller im UG.",
     "isNew": false,
     "agency": "Agenzia Domus",
-    "lastChecked": "22.08.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "ventimiglia-varase-38",
@@ -546,7 +548,7 @@
     "note": "3 Schlafzimmer. Freistehende Villa im Ortsteil Varase, rundum von Obstgärten umgeben, natürliche Wärmedämmung, Holz- und Solarheizung, nahe Reitanlage; laut Makler auch für B&B-Umnutzung geeignet.",
     "isNew": false,
     "agency": "Agenzia Domus",
-    "lastChecked": "22.08.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "perinaldo-steinhaus-panorama-39",
@@ -561,7 +563,7 @@
     "note": "2–3 Schlafzimmer. Freistehendes Natursteinhaus am Dorfrand auf ca. 580 m Höhe, Panoramablick bis zu den Alpen, Wärmepumpe + Photovoltaik, 24 m² Panoramaterrasse.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "22.08.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "dolceacqua-landhaus-panorama-40",
@@ -576,7 +578,8 @@
     "note": "2 Schlafzimmer. Traditionelles ligurisches Haus mit terrassierten Olivenhainen, Meerblick, Kamin, 22 m² Terrasse.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "01.09.2026"
+    "lastChecked": "01.09.2026",
+    "status": "sold"
   },
   {
     "id": "imperia-artallo-meerblick-41",
@@ -591,7 +594,7 @@
     "note": "2 Schlafzimmer. Panoramameerblick über Porto Maurizio (Ortsteil Artallo), Photovoltaik, Holzofen, ruhige Wohnlage nahe Olivenhainen.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "01.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "seborga-villa-aaron-42",
@@ -606,7 +609,7 @@
     "note": "3 Schlafzimmer. Lage auf 390 m Höhe im „Fürstentum“ Seborga, 32 Olivenbäume, 360°-Dachterrasse, Photovoltaikanlage.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "01.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "dolceacqua-frantoio-antico-43",
@@ -636,7 +639,7 @@
     "note": "4 Schlafzimmer (Beschreibung nennt teils nur 3 Ensuite-Schlafzimmer – kleine Abweichung im Inserat). Hanglage auf 430 m Höhe mit Blick auf die Bucht von Diano Marina, 30 Olivenbäume, Pizzaofen.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "01.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "perinaldo-villa-pool-45",
@@ -651,7 +654,7 @@
     "note": "3 Schlafzimmer. Südausrichtung, 10×3 m Pool, Fußbodenheizung, Solarwarmwasser.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "01.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "pigna-villa-dorfnah-46",
@@ -666,7 +669,7 @@
     "note": "3 Schlafzimmer. Rustikales Interieur aus Naturstein und Terrakotta, 42 m² Terrasse mit Grill/Pizzaofen, nahe dem mittelalterlichen Dorfkern.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "01.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "vallecrosia-villa-meerblick-47",
@@ -681,7 +684,7 @@
     "note": "3 Schlafzimmer. Südwest-Ausrichtung, Meerblick, Lagerfläche im EG ausbaubar oder abtrennbar.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "01.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "dolceacqua-weinberg-meerblick-48",
@@ -696,7 +699,7 @@
     "note": "2 Schlafzimmer. Landhaus mit Blick auf das mittelalterliche Dolceacqua und die Meeralpen, eigener Rossese-di-Dolceacqua-Weinberg, Obstgärten, ca. 15 Min. bis Ventimiglia.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "01.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "imperia-torrazza-frantoio-49",
@@ -771,7 +774,7 @@
     "note": "4 Schlafzimmer. Zweistöckiges Objekt (zwei kombinierbare Wohnungen), Garten mit Zitrusbäumen, 3 Parkplätze, wenige Gehminuten zum Meer. Kleines Grundstück – eher Stadthaus als Rustico.",
     "isNew": false,
     "agency": "Engel & Völkers",
-    "lastChecked": "01.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "sanbartolomeo-pairola-54",
@@ -786,7 +789,7 @@
     "note": "3 Schlafzimmer. Erdgeschosswohnung einer Doppelhaushälfte im Ortsteil Pairola, offener Wohn-/Essbereich mit Kamin, Parkplätze für 5–6 Autos.",
     "isNew": false,
     "agency": "Engel & Völkers",
-    "lastChecked": "01.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "dolceacqua-viaprovinciale-55",
@@ -1958,7 +1961,7 @@
     "note": "Zweigeschossige Villa mit 2 unabhängigen Wohneinheiten, 6 Schlafzimmer insgesamt, umgeben von Oliven- und Obstbäumen mit Panorama- und Meerblick. Hügellage in Camporosso, guter Ausgangszustand mit Ausbaupotenzial im Dachgeschoss.",
     "isNew": false,
     "agency": "Liguria Case",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "camporosso-braie-villa-panorama-138",
@@ -1973,7 +1976,7 @@
     "note": "Lage: Zona Braie. Unabhängige zweistöckige Villa mit 4 Schlafzimmern, Wohnzimmer, offener Küche und Loggia im Obergeschoss; im Untergeschoss Taverne mit zwei weiteren Zimmern (als separate Wohneinheit nutzbar). Großzügiges, teils bewaldetes Grundstück mit Grillplatz, ca. 1,5 km vom Ortszentrum entfernt.",
     "isNew": false,
     "agency": "Liguria Case",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "camporosso-ciaixe-villa-garten-139",
@@ -1988,7 +1991,7 @@
     "note": "Lage: Zona Ciaixe. Möblierte, zweigeschossige Villa mit 4 Schlafzimmern, 2 Bädern und Meerblick. Eigenständige Heizung, Energieklasse D, freistehende Doppelgarage (27 m²), Entfernung zum Meer über 2 km.",
     "isNew": false,
     "agency": "Liguria Case",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "camporosso-zentrum-villa-bifamiliare-140",
@@ -2018,7 +2021,7 @@
     "note": "Villa mit 4 Schlafzimmern, 3 Bädern und 6 Zimmern insgesamt, privatem Garten, Terrasse, Keller und Garage. Preis kürzlich reduziert, Energieklasse C, ca. 3,5 km vom Meer entfernt.",
     "isNew": false,
     "agency": "Acquamarina Real Estate",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "cipressa-aregai-villa-meerblick-142",
@@ -2033,7 +2036,7 @@
     "note": "Lage: Fraktion Aregai. Alleinstehende Villa mit 2 Schlafzimmern, offenem Wohn-/Küchenbereich, überdachter Veranda und unterirdischem Lagerraum (115 m²). Großzügiges Grundstück mit herrlichem Meerblick, Garage vorhanden.",
     "isNew": false,
     "agency": "Acquamarina Real Estate",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "seborga-villa-neuwertig-meerblick-143",
@@ -2048,7 +2051,7 @@
     "note": "Neuwertige, zweistöckige Villa mit 4 Schlafzimmern, 3 Bädern, separater Gästewohnung, großer Garage/Lagerraum, Außenküche und Pool. Ruhige Wohnlage nahe Ortszentrum, sofort bezugsfertig.",
     "isNew": false,
     "agency": "Acquamarina Real Estate",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "dolceacqua-altstadt-steinhaus-144",
@@ -2063,7 +2066,7 @@
     "note": "2 Schlafzimmer, 3 Bäder, historisches Steinhaus über 3 Etagen mit Balkon, Keller und Terrasse im malerischen Altstadtkern von Dolceacqua. Bereits renoviert (nicht renovierungsbedürftig), guter Einstiegspreis im Zielbudget, aber ohne eigenes Grundstück/Garten.",
     "isNew": false,
     "agency": "Engel & Völkers",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "dolceacqua-stadthaus-naturstein-145",
@@ -2078,7 +2081,7 @@
     "note": "3 Schlafzimmer, 2 Bäder. Freistehendes Natursteinhaus (an drei Seiten frei) im historischen Zentrum, 15 m² Dachterrasse mit Blick auf Altstadt und Castello Doria, Fußbodenheizung und Holzofen. Kein eigenes Grundstück, aber sehr gutes Preis-Leistungs-Verhältnis für die hochwertige Sanierung.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "dolceacqua-villa-pool-neubau-146",
@@ -2108,7 +2111,7 @@
     "note": "3 Schlafzimmer. Ebenerdiges, bezugsfertiges Haus in der begehrten Arziglia-Zone nur wenige Gehminuten vom Meer, mit privatem Garten und autonomer Wärmepumpenheizung. Gut geeignet als Feriendomizil oder Kapitalanlage, allerdings ohne ausgewiesene große Grundstücksfläche.",
     "isNew": false,
     "agency": "Dussaica",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "soldano-villa-renoviert-148",
@@ -2123,7 +2126,7 @@
     "note": "3 Schlafzimmer. Kürzlich renovierte, bezugsfertige Villa mit 1.700 m² Grundstück und Ausbaupotenzial im Dachgeschoss, ruhige Panoramalage nahe dem Ortszentrum. Solides Preis-Leistungs-Verhältnis im unteren Preissegment.",
     "isNew": false,
     "agency": "Liguria Case",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "ventimiglia-hoehen-haus-149",
@@ -2138,7 +2141,7 @@
     "note": "3 Schlafzimmer. Vollständig renoviertes freistehendes Haus in grüner Höhenlage mit 1.200 m² Grundstück, Photovoltaikanlage und Batteriespeicher; leicht in zwei Wohneinheiten teilbar. Moderne Ausstattung und guter Zustand.",
     "isNew": false,
     "agency": "Acquamarina Real Estate",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "bordighera-villa-mare-sanierung-150",
@@ -2153,7 +2156,7 @@
     "note": "3 Schlafzimmer. Panoramavilla der 1980er Jahre mit 800 m² Privatpark und Meerblick bis zur Côte d'Azur, jedoch sanierungsbedürftig. Potenzial für Pool und Garagenausbau, Energieklasse G.",
     "isNew": false,
     "agency": "Acquamarina Real Estate",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "sanremo-villa-garten-sanierung-151",
@@ -2168,7 +2171,7 @@
     "note": "5 Schlafzimmer. Freistehende Villa mit separatem Gästehaus in großzügigem, ruhigem Garten nahe Corso Inglesi, komplett sanierungsbedürftig. Hohes Potenzial durch großzügige Wohnfläche, aber am oberen Rand des Budgets (genau 1.000.000 €).",
     "isNew": false,
     "agency": "Acquamarina Real Estate",
-    "lastChecked": "15.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "perinaldo-natursteinhaus-panorama-152",
@@ -2183,7 +2186,7 @@
     "note": "2–3 Schlafzimmer. Freistehendes Natursteinhaus in ruhiger Ortsrandlage mit spektakulärer Aussicht, loftartige offene Raumaufteilung über drei Ebenen, sichtbares Natursteinmauerwerk, Wärmepumpe und Photovoltaik. Sehr kleines Grundstück, aber große Panoramaterrasse.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "01.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "tovo-faraldi-villa-meerblick-153",
@@ -2198,7 +2201,8 @@
     "note": "3 Schlafzimmer, 2 Bäder. Landhaus-Villa mit Panoramablick auf Berge und Mittelmeer, zwei Kamine, Gasheizung, Terrassen und Olivenhain (ca. 28 Bäume) auf sanft terrassiertem Grundstück. Tovo ist ein Ortsteil von Villa Faraldi (Provincia di Imperia).",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "01.09.2026"
+    "lastChecked": "01.09.2026",
+    "status": "sold"
   },
   {
     "id": "perinaldo-moderne-villa-meerblick-154",
@@ -2213,7 +2217,7 @@
     "note": "3 Schlafzimmer, 3 Bäder. Moderne Villa mit Panorama-Meerblick auf großem, terrassiertem Grundstück mit Olivenhainen, Kamin, Solarthermie und Poolmöglichkeit.",
     "isNew": false,
     "agency": "Terra Italia",
-    "lastChecked": "01.09.2026"
+    "lastChecked": "11.10.2026"
   },
   {
     "id": "diano-marina-ev-ulivi-meerblick-155",
@@ -2226,8 +2230,698 @@
     "url": "https://www.engelvoelkers.com/it/de/exposes/0266fa1e-841b-56e9-8207-529c9b9e7b39",
     "photo": "https://uploadcare.engelvoelkers.com/dfe9801c-1b08-401f-ba11-2192ad310f80/-/format/webp/-/stretch/off/-/progressive/yes/-/resize/1440x/-/quality/lighter/",
     "note": "2 Schlafzimmer. Freistehende Villa auf 500 m² Grundstück inmitten von Olivenbäumen mit Panorama-Meerblick aufs Mittelmeer, Baujahr 2002 (Energieklasse D). Großzügige Wohnfläche von 195 m²; erfüllt das Mindestkriterium von 2 Schlafzimmern knapp. Ruhige, küstennahe Lage oberhalb von Diano Marina.",
+    "isNew": false,
+    "agency": "Engel & Völkers",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "sanremo-coldirodi-haus-meerblick-156",
+    "title": "Freistehendes Haus mit Meerblick (Coldirodi)",
+    "town": "Sanremo",
+    "price": "€ 910.000",
+    "sqm": "217 m²",
+    "plotSqm": "ca. 800 m² Garten",
+    "condition": "Gepflegt (Energieklasse E)",
+    "url": "https://www.agenzia-domus.com/en/property/ag-dom-f201-detached-house-with-sea-view-for-sale-in-sanremo/",
+    "photo": "https://www.agenzia-domus.com/wp-content/uploads/2024/08/DSC_9774.jpg",
+    "note": "3 Schlafzimmer, 2 Bäder. Zweigeschossiges freistehendes Haus im Ortsteil Coldirodi mit angelegtem Garten und Meerblick, 37 m² überdachte Terrasse, 94 m² Garage für 4 Autos; Pool möglich. Solide, aber im oberen Preissegment.",
+    "isNew": true,
+    "agency": "Agenzia Domus",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "bordighera-villa-meer-sanierungsprojekt-157",
+    "title": "Villa am Meer mit genehmigtem Sanierungsprojekt",
+    "town": "Bordighera",
+    "price": "€ 800.000",
+    "sqm": "210 m² (Projekt)",
+    "plotSqm": "500 m² Garten",
+    "condition": "Renovierungsbedürftig, genehmigtes Projekt (Energieklasse G)",
+    "url": "https://www.agenzia-domus.com/en/property/ag-dom-5183-villa-on-the-seaside-with-approved-restoration-project/",
+    "photo": "https://www.agenzia-domus.com/wp-content/uploads/2023/07/DSC_6475-1-1024x683.jpg",
+    "note": "3 Schlafzimmer (laut Projekt). Freistehende Villa im Zentrum von Bordighera direkt am Meer, Unterführung zur Strandpromenade, Parkplatz, zwei Kellerräume. Seltene Lage – Sanierungskosten zusätzlich einplanen.",
+    "isNew": true,
+    "agency": "Agenzia Domus",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "bordighera-denkmal-villa-meerblick-158",
+    "title": "Denkmalgeschützte Villa mit Meerblick auf dem ersten Hügel",
+    "town": "Bordighera",
+    "price": "€ 780.000",
+    "sqm": "95 m²",
+    "plotSqm": "600 m² Terrassengarten",
+    "condition": "Gut, teilmöbliert (Energieklasse C), denkmalgeschützt",
+    "url": "https://www.agenzia-domus.com/en/property/ag-dom-5026-villa-with-sea-views-on-the-first-hill-for-sale-in-bordighera/",
+    "photo": "https://www.agenzia-domus.com/wp-content/uploads/2025/12/MG_0636-HDR-1024x683.jpg",
+    "note": "2 Schlafzimmer mit eigenem Bad, 3 Bäder. Kleine historische Villa auf zwei Ebenen mit blühendem Terrassengarten, Panorama-Meerblick und 3 Stellplätzen. Charmant, aber eher kleine Wohnfläche für den Preis; Denkmalschutz beachten.",
+    "isNew": true,
+    "agency": "Agenzia Domus",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "camporosso-villa-olivenhain-ca48-159",
+    "title": "Villa mit Meerblick und großem Olivenhain (CA-48)",
+    "town": "Camporosso",
+    "price": "€ 790.000",
+    "sqm": "290 m²",
+    "plotSqm": "500 m² Garten + ca. 4.500 m² Olivenhain",
+    "condition": "Neuwertig (Baujahr 1990)",
+    "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=1311477&language=ita",
+    "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/1311477/F_423229.jpg",
+    "note": "8 Schlafzimmer, 6 Bäder. Zweigeschossige Villa auf dem ersten Hügel mit Panorama-Meerblick, 60 m² Taverne, Keller, 50 m² Terrasse. Sehr viel Raum, ideal für Großfamilie/Vermietung. Nicht identisch mit der casa.it-Villa San Giacomo (andere Flächen).",
+    "isNew": true,
+    "agency": "Liguria Case",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "vallecrosia-villa-zwei-wohnungen-so2811-160",
+    "title": "Villa mit 2 Wohnungen und Meerblick (SO-2811)",
+    "town": "Vallecrosia",
+    "price": "€ 500.000",
+    "sqm": "190 m²",
+    "plotSqm": "800 m² Garten",
+    "condition": "Neuwertig (Baujahr 2004)",
+    "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=1935408&language=ita",
+    "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/1935408/F_382138.jpg",
+    "note": "4 Schlafzimmer (2 Wohneinheiten mit je 2 SZ). Zweigeschossige Villa ca. 1,5 km vom Meer, Meerblick vom Balkon, 40 m² überdachte Terrasse, 40 m² Garage; zusätzliches Land oberhalb erwerbbar. Gutes Preis-Leistungs-Verhältnis.",
+    "isNew": true,
+    "agency": "Liguria Case",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "camporosso-braie-villa-ebener-garten-161",
+    "title": "Villa mit 3.000 m² ebenem Garten (Braie, J099-3015)",
+    "town": "Camporosso",
+    "price": "€ 850.000",
+    "sqm": "280 m²",
+    "plotSqm": "3.000 m² ebener Garten",
+    "condition": "Neuwertig (Baujahr 2000)",
+    "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=2179756&language=ita",
+    "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/2179756/F_705062.jpg",
+    "note": "Mehrere Schlafzimmer (8 Räume in 2 großen Wohnungen). Neuere Villa in flacher Lage nahe dem Meer, 80 m² Lager, 120 m² Panoramaterrasse, mehrere Stellplätze, Pool möglich. Großes ebenes Grundstück ist in der Region selten. Hinweis 'trattativa riservata' = Verhandlung diskret, kein Reservierungsvermerk.",
+    "isNew": true,
+    "agency": "Liguria Case",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "vallebona-villa-meerblick-ri226-162",
+    "title": "Villa mit Meerblick und 2.500 m² Land (RI-226)",
+    "town": "Vallebona",
+    "price": "€ 500.000",
+    "sqm": "185 m²",
+    "plotSqm": "2.500 m² Land + 250 m² Hof",
+    "condition": "Sehr gut (Baujahr 2005)",
+    "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=2360429&language=ita",
+    "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/2360429/F_339526.jpg",
+    "note": "5 Schlafzimmer, 3 Bäder. Hangvilla mit Meerblick, als zwei Wohnungen aufgeteilt (Hochparterre + 1. OG), doppeltes Wohnzimmer, 50 m² Terrasse. Viel Fläche für den Preis.",
+    "isNew": true,
+    "agency": "Liguria Case",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "bordighera-grosses-haus-meer-co19-163",
+    "title": "Großes freistehendes Haus 50 m vom Meer (CO-19)",
+    "town": "Bordighera",
+    "price": "€ 600.000",
+    "sqm": "425 m² (250 m² Hauptgeschoss)",
+    "plotSqm": "150 m² Garten",
+    "condition": "Bewohnbar / gut",
+    "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=2498113&language=ita",
+    "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/2498113/F_609402.jpg",
+    "note": "6 Schlafzimmer, 4 Bäder. Großes Haus in halbzentraler Lage ca. 50 m vom Meer, 70 m² Garage, 100 m² Lager. Viel Wohnraum zum Quadratmeterpreis, aber nur kleiner Garten.",
+    "isNew": true,
+    "agency": "Liguria Case",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "soldano-rohbau-villa-pool-ga142-164",
+    "title": "Villa im Rohbau mit Grundstück und Poolmöglichkeit (GA-142)",
+    "town": "Soldano",
+    "price": "€ 390.000",
+    "sqm": "285 m²",
+    "plotSqm": "1.800 m² Grundstück",
+    "condition": "Neubau im Rohbau – Fertigstellung erforderlich",
+    "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=2544507&language=ita",
+    "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/2544507/F_398588.jpg",
+    "note": "Mehrere Schlafzimmer möglich (2 Ebenen à 130 m² + 25 m² Dach + 130 m² Lager). Rohbau im Grünen (Ortsteil San Martino), 50 m² Terrasse, ca. 200 m² Parkfläche. Günstiger Einstieg, aber erhebliche Fertigstellungskosten.",
+    "isNew": true,
+    "agency": "Liguria Case",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "vallecrosia-bordighera-villa-panorama-co1611-165",
+    "title": "Villa mit dominantem Meerblick bis Korsika (CO-1611)",
+    "town": "Vallecrosia",
+    "price": "€ 850.000",
+    "sqm": "350 m²",
+    "plotSqm": "1.850 m² Garten",
+    "condition": "Sehr gut (Baujahr 2000)",
+    "url": "https://www.liguriacase.eu/web/immobile_dettaglio.asp?cod_annuncio=875724&language=ita",
+    "photo": "https://agestanet.risorseimmobiliari.it/public/annunci/06720/0875724/F_217556.jpg",
+    "note": "6 Schlafzimmer. Dreigeschossige Villa an der Grenze Vallecrosia/Bordighera, als zwei Wohnungen aufgeteilt, große Terrasse, Portikus mit Holzofen, 150 m² Garage, Pool möglich. Top-Aussicht.",
+    "isNew": true,
+    "agency": "Liguria Case",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "camporosso-zentrum-haus-dependance-166",
+    "title": "Freistehendes Haus mit Gästehaus nahe Zentrum (Rif. 9)",
+    "town": "Camporosso",
+    "price": "€ 500.000",
+    "sqm": "240 m²",
+    "plotSqm": "Eingezäunter Garten (Größe nicht angegeben)",
+    "condition": "Sofort bewohnbar, gut ausgestattet",
+    "url": "https://immobiliareilrustico.it/immobile/casa-singola-in-vendita-a-camporosso-2/",
+    "photo": "https://immobiliareilrustico.it/wp-content/uploads/2025/05/20250513191921-3.jpg",
+    "note": "3 Schlafzimmer, 3 Bäder. Zweigeschossiges Haus nahe dem Ortszentrum mit großer Terrasse und separater Dependance (eigene Küche und Bad). Praktisch für Gäste/Vermietung.",
+    "isNew": true,
+    "agency": "Immobiliare Il Rustico",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "camporosso-ciaixe-haus-20000-167",
+    "title": "Haus mit zwei Wohnungen und ca. 2 ha Land (Ciaixe, Rif. 11)",
+    "town": "Camporosso",
+    "price": "€ 490.000",
+    "sqm": "200 m² (60 + 140 m²)",
+    "plotSqm": "ca. 20.000 m² (Olivenhain, Wald, Ackerland)",
+    "condition": "Nicht angegeben",
+    "url": "https://immobiliareilrustico.it/immobile/casa-singola-in-vendita-a-camporosso-3/",
+    "photo": "https://immobiliareilrustico.it/wp-content/uploads/2025/05/20250530181153-1.jpg",
+    "note": "4 Schlafzimmer. Freistehendes Haus, geteilt in zwei Wohnungen, Südlage mit Meer-/Hügelblick, Lagerhalle, Gewächshaus, kleines Rustico, Garage, Holzofen; auch in Teilen käuflich. Interessant für Selbstversorger/Agrarnutzung.",
+    "isNew": true,
+    "agency": "Immobiliare Il Rustico",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "camporosso-ciaixe-haus-rustico-11000-168",
+    "title": "Hanghaus mit Meerblick und Rustico (Ciaixe, Rif. 15)",
+    "town": "Camporosso",
+    "price": "€ 380.000",
+    "sqm": "100 m² (+ Untergeschoss)",
+    "plotSqm": "ca. 11.000 m² Grundstück",
+    "condition": "Bewohnbar; Untergeschoss und Rustico komplett renovierungsbedürftig",
+    "url": "https://immobiliareilrustico.it/immobile/casa-singola-in-vendita-a-camporosso-4/",
+    "photo": "https://immobiliareilrustico.it/wp-content/uploads/2025/07/20250704192655-38.jpg",
+    "note": "3 Schlafzimmer. Eingeschossiges Haus mit Kaminzimmer und umlaufendem Balkon, gleich großes Untergeschoss zum Ausbau, separates Rustico zum Restaurieren, teils kultivierbares Land. Gutes Potenzial.",
+    "isNew": true,
+    "agency": "Immobiliare Il Rustico",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "camporosso-brunetti-haus-renoviert-169",
+    "title": "Renoviertes Häuschen mit Steinbögen (Brunetti, Rif. 31)",
+    "town": "Camporosso",
+    "price": "€ 330.000",
+    "sqm": "80 m²",
+    "plotSqm": "900 m² Garten",
+    "condition": "Komplett renoviert",
+    "url": "https://immobiliareilrustico.it/immobile/casa-singola-in-vendita-a-camporosso-6/",
+    "photo": "https://immobiliareilrustico.it/wp-content/uploads/2026/02/20260112185558-1.jpg",
+    "note": "2 Schlafzimmer. Zweigeschossiges freistehendes Häuschen mit Steingewölbe im Wohn-/Küchenbereich, eingezäunter Garten mit Obst- und Olivenbäumen, 24 m² Nebengebäude, Sauna, Außenküche mit Holzofen, überdachter Stellplatz. Charmant und bezugsfertig.",
+    "isNew": true,
+    "agency": "Immobiliare Il Rustico",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "camporosso-zentrum-haus-sanierung-170",
+    "title": "Freistehendes Haus mit Panoramaterrasse, zu renovieren",
+    "town": "Camporosso",
+    "price": "€ 330.000",
+    "sqm": "200 m²",
+    "plotSqm": "ca. 150 m² ebener Garten",
+    "condition": "Renovierungsbedürftig (Fassade, Dach und Terrasse kürzlich saniert)",
+    "url": "https://www.dussaica.com/casa-indipendente-camporosso-via-roma_2888900.html",
+    "photo": "https://storage.googleapis.com/birgus/annunci/2888900/58228959.jpg",
+    "note": "3 Schlafzimmer. Allseits freistehendes Haus nahe Geschäften und Meer, Lagerräume im EG, 25 m² Garage, 7-Zimmer-Etage zu renovieren, Dachgeschoss mit Panoramaterrasse. Gute Basis, Innenausbau einplanen.",
+    "isNew": true,
+    "agency": "DussaiCä Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "ventimiglia-grimaldi-dorfhaus-meerblick-171",
+    "title": "Dorfhaus mit Meerblick in Grimaldi Superiore",
+    "town": "Ventimiglia",
+    "price": "€ 339.000",
+    "sqm": "90 m²",
+    "plotSqm": "ca. 300 m² angrenzender Garten",
+    "condition": "Renoviert",
+    "url": "https://www.dussaica.com/casa-indipendente-ventimiglia-piazza-angeli-custodi_2593092.html",
+    "photo": "https://storage.googleapis.com/birgus/annunci/2593092/51466105.jpg",
+    "note": "2 Schlafzimmer (2 kleine Einheiten, 2 Bäder). Historisches Dorfhaus nahe der französischen Grenze mit Blumenhof, Panorama-Terrasse mit Meerblick und bewässertem Garten; kein Keller, kein Parkplatz. Grenzfall (Dorfhaus).",
+    "isNew": true,
+    "agency": "DussaiCä Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "camporosso-sangiacomo-haus-7275-172",
+    "title": "Freistehendes Haus im Grünen (San Giacomo, Rif. 7275)",
+    "town": "Camporosso",
+    "price": "€ 300.000 (verhandelbar)",
+    "sqm": "150 m²",
+    "plotSqm": "Privater Garten (Größe n.a.) + 150 m² Terrasse",
+    "condition": "Sehr gut (Baujahr 1985)",
+    "url": "https://www.aquamarinarealestate.com/camporosso-casa-indipendente-r7275",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12207-it-.jpg",
+    "note": "3 Doppelzimmer (4. möglich), 3 Bäder. Dreistöckig mit zwei Eingängen, zwei Küchen, Blick über das Tal bis zum Meer, Klimaanlage, Photovoltaik. Sehr günstig für das Angebot.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "sanremo-poggio-haus-garten-173",
+    "title": "Freistehende Villa mit Garten in Poggio (Rif. 13926)",
+    "town": "Sanremo",
+    "price": "€ 390.000",
+    "sqm": "166 m²",
+    "plotSqm": "600 m² Grundstück",
+    "condition": "Gut",
+    "url": "https://www.aquamarinarealestate.com/casa-indipendente-con-giardino",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12544-it-.jpg",
+    "note": "4 Schlafzimmer. Allseits freistehendes Haus im Dorf Poggio, 3 km von den Stränden, Dachterrasse mit Meerblick, Obstbäume, große Garage, Hof für 4 Autos. Guter Preis für Sanremo.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "castellaro-villa-pool-park-174",
+    "title": "Villa mit Pool und englischem Garten (V2647)",
+    "town": "Castellaro",
+    "price": "€ 550.000",
+    "sqm": "300 m²",
+    "plotSqm": "5.000 m² Grundstück",
+    "condition": "Gut; 90 m² Dachgeschoss unausgebaut",
+    "url": "https://www.aquamarinarealestate.com/castellaro-villa-con-piscina-in-vendita",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big1.php?cod=10962-it-.jpg",
+    "note": "5 Schlafzimmer. Villa mit hohen Bäumen, Pool und Gemüsegarten, zwei Wohnetagen plus ausbaufähiger Dachboden, Außenaufzug, Garage; B&B-geeignet. Älteres Inserat (V-Referenz) – Verfügbarkeit erfragen.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "cipressa-villa-pool-zwei-wohnungen-175",
+    "title": "Villa mit Pool und Meerblick, zwei Wohnungen (Rif. 14100)",
+    "town": "Cipressa",
+    "price": "€ 700.000 (verhandelbar)",
+    "sqm": "179 m²",
+    "plotSqm": "ca. 4.500 m² terrassiertes Land",
+    "condition": "Renoviert (Baujahr 2010)",
+    "url": "https://www.aquamarinarealestate.com/cipressa-villa-con-piscina-vista-mare",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12716-it-.jpg",
+    "note": "6 Schlafzimmer (4 + 2 in zwei renovierten Wohnungen). 1,5 km von den Stränden, zwei Zufahrten, Solaranlage, große Panoramaterrassen. Vielseitig nutzbar.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "cipressa-villa-meerblick-2016-176",
+    "title": "Moderne Villa mit Meerblick (Rif. 14143)",
+    "town": "Cipressa",
+    "price": "€ 550.000 (reduziert)",
+    "sqm": "210 m²",
+    "plotSqm": "ca. 3.500 m² (Oliven, Obstbäume)",
+    "condition": "Ausgezeichnet (Baujahr 2016)",
+    "url": "https://www.aquamarinarealestate.com/cipressa-villa-vista-mare-r14143",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12754-it-.jpg",
+    "note": "3 Schlafzimmer + Arbeitszimmer, 2 Bäder. Neuere freistehende Villa in dominanter Lage mit Südost-Meerblick, Portikus, große Panoramaterrasse, Doppelgarage. Gutes Preis-Leistungs-Verhältnis.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "dianocastello-villa-rohbau-13936-177",
+    "title": "Villa-Rohbau mit Meerblick (Rif. 13936)",
+    "town": "Diano Castello",
+    "price": "€ 480.000",
+    "sqm": "136 m² (+ 200 m² Nebenflächen)",
+    "plotSqm": "4.000 m² Grundstück",
+    "condition": "Rohbau (2015) – Haustechnik und Innenausbau fehlen",
+    "url": "https://www.aquamarinarealestate.com/diano-castello-villa-vista-mare",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12581-it-.jpg",
+    "note": "4 Schlafzimmer geplant. Rohbau mit Betonskelett, Mauern und Dach in ruhiger Lage, aufzugsvorbereitet, Verkauf wie besehen. Nicht identisch mit dem E&V-Rohbau in Diano Castello (andere Flächen/Preis).",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "dolceacqua-haus-garten-7517-178",
+    "title": "Freistehendes Haus mit Garten (Rif. 7517)",
+    "town": "Dolceacqua",
+    "price": "€ 320.000 (reduziert)",
+    "sqm": "187 m²",
+    "plotSqm": "ca. 900 m² Garten",
+    "condition": "Gut",
+    "url": "https://www.aquamarinarealestate.com/dolceacqua-casa-indipendente-r7517",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12293-it-.jpg",
+    "note": "4 Schlafzimmer, 2 Bäder. 5 Autominuten vom Zentrum, großes Wohnzimmer mit offener Küche, Fußbodenheizung, Garage, 3 Stellplätze, Taverne/Lager als Einliegerwohnung ausbaubar. Preiswert.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "terzorio-villa-meerblick-179",
+    "title": "Villa mit Meerblick im Hügeldorf Terzorio (Rif. 13861)",
+    "town": "Terzorio",
+    "price": "€ 900.000",
+    "sqm": "230 m²",
+    "plotSqm": "2.000 m² Garten",
+    "condition": "Gut / sehr gut (2022 modernisiert)",
+    "url": "https://www.aquamarinarealestate.com/liguria-terzorio-villa-vista-mare",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12510-it-.jpg",
+    "note": "3+ Schlafzimmer. Ruhige Villa auf zwei Ebenen mit 100–200 m² Südterrasse, Fußbodenheizung, Dreifachverglasung, möbliert. Modern, aber hoher Preis.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "ventimiglia-mortola-villa-meerblick-180",
+    "title": "Kleine Villa mit Meerblick (Mortola Superiore, Rif. 13876)",
+    "town": "Ventimiglia",
+    "price": "€ 440.000",
+    "sqm": "80 m²",
+    "plotSqm": "Privater Zitrusgarten mit Poolterrasse (Größe n.a.)",
+    "condition": "Gut (Energieklasse F)",
+    "url": "https://www.aquamarinarealestate.com/mortola-superiore-villa-vista-mare",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12513-it-.jpg",
+    "note": "2 Schlafzimmer. Eingeschossige freistehende Villa in einem Weiler mit Meerblick nahe der französischen Grenze, Wohnküche mit Meerblick-Terrasse, Dachboden, Keller, Garage. Klein, aber schöne Lage.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "ospedaletti-villa-meerblick-v1268-181",
+    "title": "Villa mit 180°-Meerblick, Innenausbau offen (V1268)",
+    "town": "Ospedaletti",
+    "price": "€ 750.000",
+    "sqm": "250 m²",
+    "plotSqm": "ca. 600 m² Terrassengarten",
+    "condition": "Rohbau außen fertig, innen zu vollenden (Baujahr 2009)",
+    "url": "https://www.aquamarinarealestate.com/ospedaletti-villa-vista-mare-in-vendita",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big1.php?cod=9036-it-.jpg",
+    "note": "5 Räume als Schlafzimmer nutzbar. Struktur fertig, Innenausbau nach eigenen Wünschen (schlüsselfertig optional). Spektakuläre Lage über dem Golf. Älteres Inserat – Verfügbarkeit prüfen.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "pontedassio-villa-pool-meerblick-182",
+    "title": "Villa mit Panoramapool und Meerblick (Rif. 14003)",
+    "town": "Pontedassio",
+    "price": "€ 450.000 (reduziert)",
+    "sqm": "147 m²",
+    "plotSqm": "Großes Grundstück mit Oliven und Obstbäumen (Größe n.a.)",
+    "condition": "Renoviert / ausgezeichnet",
+    "url": "https://www.aquamarinarealestate.com/pontedassio-villa-vista-mare",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12622-it-.jpg",
+    "note": "3 Schlafzimmer (eines mit Bad im Dachgeschoss), 3 Bäder. 15 Min. von Imperia, gepflegter Garten. Pool zu diesem Preis attraktiv.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "sanlorenzo-haus-meerblick-183",
+    "title": "Freistehendes Haus mit Meerblick (Rif. 14148)",
+    "town": "San Lorenzo al Mare",
+    "price": "€ 435.000 (reduziert, verhandelbar)",
+    "sqm": "165 m²",
+    "plotSqm": "1.000 m² Garten",
+    "condition": "Renoviert",
+    "url": "https://www.aquamarinarealestate.com/san-lorenzo-al-mare-casa-indipendente-vista-mare",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12758-it-.jpg",
+    "note": "3+ Schlafzimmer auf zwei Ebenen. Helles Haus mit offenem Wohnbereich und Panorama-Südterrasse, möbliert. Gutes Preis-Leistungs-Verhältnis in Küstennähe.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "sanremo-haus-renoviert-meerblick-184",
+    "title": "Renoviertes Haus mit Meerblick (Rif. 7556)",
+    "town": "Sanremo",
+    "price": "€ 350.000 (verhandelbar)",
+    "sqm": "100 m²",
+    "plotSqm": "ca. 500 m² Garten",
+    "condition": "Sehr gut, komplett renoviert",
+    "url": "https://www.aquamarinarealestate.com/sanremo-casa-indipendente-vista-mare",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12327-it-.jpg",
+    "note": "2 Schlafzimmer. Wenige km vom Zentrum, Meerblick-Terrasse und große Dachterrasse mit Außenküche, große Garage. Bezugsfertig zum günstigen Preis.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "sanremo-doppelhaushaelfte-garten-185",
+    "title": "Doppelhaushälfte mit Garten (Rif. 13745)",
+    "town": "Sanremo",
+    "price": "€ 430.000",
+    "sqm": "150 m²",
+    "plotSqm": "240 m² Garten",
+    "condition": "Gut (Baujahr 1970)",
+    "url": "https://www.aquamarinarealestate.com/sanremo-villa-bifamiliare-in-vendita",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12401-it-.jpg",
+    "note": "3 Schlafzimmer (2 + Dachzimmer mit Kochnische). Dreigeschossig, offener Wohnbereich zur Veranda, Keller. Grenzfall: Doppelhaus, kleiner Garten.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "sanremo-villa-meerblick-706-186",
+    "title": "Villa mit weitem Meerblick (Rif. 706)",
+    "town": "Sanremo",
+    "price": "€ 1.000.000 (verhandelbar)",
+    "sqm": "270 m²",
+    "plotSqm": "1.300 m² Grundstück",
+    "condition": "Sehr gut (fertiggestellt 2001)",
+    "url": "https://www.aquamarinarealestate.com/sanremo-villa-vista-mare-in-vendita-r706",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big1.php?cod=906-it-.jpg",
+    "note": "4 Schlafzimmer, 3 Bäder. Drei Ebenen mit Terrassen auf jeder Etage, Doppelgarage + 2–3 Stellplätze, Pool-Anschlüsse vorbereitet. Am oberen Budgetrand.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "sanremo-poggio-villa-6000-187",
+    "title": "Villa mit 6.000 m² Obst- und Olivengarten (Poggio, Rif. 13695)",
+    "town": "Sanremo",
+    "price": "€ 590.000",
+    "sqm": "220 m²",
+    "plotSqm": "ca. 6.000 m² Grundstück",
+    "condition": "Originalzustand (Baujahr 1985), modernisierungsbedürftig",
+    "url": "https://www.aquamarinarealestate.com/sanremo-villa-vista-mare-r13695",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12350-it-.jpg",
+    "note": "2–3 Schlafzimmer. Freistehende Villa mit Meerblick auf zwei Ebenen mit zwei Küchen und zwei Wohnzimmern, 50 m² Lager (als Wohnung ausbaubar), 50 m² Garage. Viel Land, Modernisierung einplanen.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "sanremo-villa-innenausbau-v1704-188",
+    "title": "Villa mit Meerblick, Innenausbau offen (V1704)",
+    "town": "Sanremo",
+    "price": "€ 800.000",
+    "sqm": "230 m²",
+    "plotSqm": "ca. 900 m² Grundstück",
+    "condition": "Außen fertig, innen zu vollenden",
+    "url": "https://www.aquamarinarealestate.com/sanremo-villa-vista-mare-rv1704",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big1.php?cod=9555-it-.jpg",
+    "note": "2 Schlafzimmer, Taverne, Waschküche/Lager im UG, breite Zufahrt, Pool möglich. Älteres Inserat – Verfügbarkeit prüfen.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "santostefano-zweifamilienvilla-meerblick-189",
+    "title": "Zweifamilienvilla mit Meerblick über Marina Aregai (Rif. 14218)",
+    "town": "Santo Stefano al Mare",
+    "price": "€ 635.000",
+    "sqm": "210 m²",
+    "plotSqm": "Gepflegter Garten mit Solarium und kleinem Pool (Größe n.a.)",
+    "condition": "Nicht angegeben (Baujahr 1970)",
+    "url": "https://www.aquamarinarealestate.com/santo-stefano-al-mare-villa-bifamiliare-vista-mare",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12822-it-.jpg",
+    "note": "3+ Schlafzimmer in zwei Wohnungen. Eingezäunter Parkplatz, Garage. Gute Lage oberhalb des Hafens.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "perinaldo-negi-landhaus-garten-190",
+    "title": "Landhaus mit 2.300 m² Garten (Negi, Rif. 14210)",
+    "town": "Perinaldo",
+    "price": "€ 370.000",
+    "sqm": "130 m²",
+    "plotSqm": "2.300 m² Garten",
+    "condition": "Gut",
+    "url": "https://www.aquamarinarealestate.com/seborga-negi-splendida-casa-indipendente",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12821-it-.jpg",
+    "note": "2 Schlafzimmer, 2 Bäder. Freistehendes Haus im Weiler Negi (bei Seborga) mit Kaminzimmer, Terrasse, Souterrainräumen und separatem 30 m² Nebengebäude. Ruhig, gutes Preisniveau.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "vallebona-haus-altstadt-7378-191",
+    "title": "Freistehendes Haus nahe Altstadt (Rif. 7378)",
+    "town": "Vallebona",
+    "price": "€ 450.000",
+    "sqm": "190 m²",
+    "plotSqm": "ca. 900 m² Garten",
+    "condition": "Gut (Energieklasse G)",
+    "url": "https://www.aquamarinarealestate.com/vallebona-casa-indipendente-in-vendita-vista-mare",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big1.php?cod=12171-it-.jpg",
+    "note": "3 Schlafzimmer, 3 Bäder. Eine Gehminute zur Altstadt, Blick über Hügel bis zum Meer, Untergeschoss als Einliegerwohnung, Pool und Stellplätze möglich.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "vallebona-zweifamilienvilla-5000-192",
+    "title": "Zweifamilienvilla mit 5.000 m² Land (Rif. 14231)",
+    "town": "Vallebona",
+    "price": "€ 480.000",
+    "sqm": "180 m²",
+    "plotSqm": "5.000 m² (Obstbäume, Oliven)",
+    "condition": "Renoviert (Baujahr 2005)",
+    "url": "https://www.aquamarinarealestate.com/vallebona-villa-bifamigliare-indipendente",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12834-it-.jpg",
+    "note": "3 Schlafzimmer, 3 Bäder. In den Hügeln wenige Minuten von Bordighera, 50 m² Veranda, Zufahrt mit vielen Stellplätzen. Text ähnelt Rif. 14257 (Vallecrosia).",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "vallebona-villa-eingeschossig-3500-193",
+    "title": "Eingeschossige Villa mit 3.500 m² Land (Rif. 14233)",
+    "town": "Vallebona",
+    "price": "€ 360.000",
+    "sqm": "130 m²",
+    "plotSqm": "3.500 m² (Obstbäume, Oliven)",
+    "condition": "Gut",
+    "url": "https://www.aquamarinarealestate.com/vallebona-villa-indipendente",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12836-it-.jpg",
+    "note": "2 Schlafzimmer. Kleine Villa (ca. 70 m² Hauptetage) in den Hügeln, großer Hof, Grill und Ofen, Waschküche, viele Stellplätze. Günstig, eher klein.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "vallebona-villenteil-panorama-194",
+    "title": "Villenteil mit eigenem Eingang und Panoramablick",
+    "town": "Vallebona",
+    "price": "€ 380.000",
+    "sqm": "170 m²",
+    "plotSqm": "Privater Garten (Größe n.a.)",
+    "condition": "Gut",
+    "url": "https://www.aquamarinarealestate.com/vallebona-villetta-in-vendita-con-la-vista-mare-e-montagnie-panoramica",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12571-it-.jpg",
+    "note": "4 Schlafzimmer. Großer Teil einer Villa auf vier Ebenen, ruhig im Grünen mit Meer- und Bergblick, Taverne, Keller, Garage. Grenzfall: kein ganzes Haus.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "vallecrosia-zweifamilienvilla-5000-195",
+    "title": "Panorama-Zweifamilienvilla mit 5.000 m² Land (Rif. 14257)",
+    "town": "Vallecrosia",
+    "price": "€ 990.000 (verhandelbar)",
+    "sqm": "210 m²",
+    "plotSqm": "5.000 m² (Obstbäume, Oliven)",
+    "condition": "Renoviert (Baujahr 1999/2000)",
+    "url": "https://www.aquamarinarealestate.com/vallecrosia-villa-in-vendita-r14257",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12901-it-.jpg",
+    "note": "4 Schlafzimmer. Freistehend in den Hügeln mit Meerblick, möbliert, 190 m² Terrasse, Garage. Am oberen Budgetrand.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "vallecrosia-villa-mehrstoeckig-14123-196",
+    "title": "Villa mit Meerblick auf mehreren Ebenen (Rif. 14123)",
+    "town": "Vallecrosia",
+    "price": "€ 650.000",
+    "sqm": "250 m²",
+    "plotSqm": "Garten (Größe n.a.)",
+    "condition": "Renoviert (Baujahr 2000)",
+    "url": "https://www.aquamarinarealestate.com/vallecrosia-villa-vista-mare",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12732-it-.jpg",
+    "note": "4 Schlafzimmer (3 oben + 1 im UG). Freistehend in den Hügeln mit Fernblick und Meerblick, großes Lager, Garage. Evtl. identisch mit der Agenzia-Domus-Villa Conca Verde (gleiche Fläche) – vergleichen.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "ventimiglia-seglia-zweifamilienvilla-pool-197",
+    "title": "Zweifamilienvilla mit Pool und Meerblick (Seglia, Rif. 14091)",
+    "town": "Ventimiglia",
+    "price": "€ 415.000 (reduziert)",
+    "sqm": "172 m²",
+    "plotSqm": "Privater Garten (Größe n.a.)",
+    "condition": "Gut",
+    "url": "https://www.aquamarinarealestate.com/ventimiglia-ampia-villa-in-vendita-r14091",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12709-it-.jpg",
+    "note": "4 Schlafzimmer in zwei Wohnungen mit separaten Eingängen. Große Terrassen mit Außenküche, Garage im EG. Pool zu diesem Preis selten.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "ventimiglia-porra-villa-198",
+    "title": "Villa in sonniger Lage (Porra, Rif. 13836)",
+    "town": "Ventimiglia",
+    "price": "€ 330.000",
+    "sqm": "128 m²",
+    "plotSqm": "Privater Garten (Größe n.a.), Stellfläche für 4 Autos",
+    "condition": "Sehr gut",
+    "url": "https://www.aquamarinarealestate.com/ventimiglia-casa-indipendente",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12472-it-.jpg",
+    "note": "3 Schlafzimmer, 2 Bäder. Zweigeschossig, Portikus, Loggia-Terrasse, Kamin, Garage mit Zwischengeschoss, Grillterrasse. Preiswert und gepflegt.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "sanremo-zweifamilienvilla-2700-199",
+    "title": "Zweifamilienvilla mit Meerblick und 2.700 m² Land (Rif. 14587)",
+    "town": "Sanremo",
+    "price": "€ 595.000",
+    "sqm": "261 m²",
+    "plotSqm": "ca. 2.700 m² Grundstück",
+    "condition": "Gut (Energieklasse G)",
+    "url": "https://www.aquamarinarealestate.com/villa-bifamiliare-vista-mare-a-sanremo",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big.php?cod=12914-it-.jpg",
+    "note": "4 Schlafzimmer. Ca. 4 km vom Zentrum, drei Ebenen mit zwei abgeschlossenen Wohnungen, Meer- und Bergblick. Evtl. identisch mit der Doppelvilla (620.000 €, 2.400 m²) auf immobiliare.it – vergleichen.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "bordighera-villenhaelfte-garten-v1848-200",
+    "title": "Villenhälfte mit ebenem Garten und Meerblick (V1848)",
+    "town": "Bordighera",
+    "price": "€ 750.000",
+    "sqm": "200 m² (95 m² Hauptetage)",
+    "plotSqm": "660 m² ebener Garten",
+    "condition": "Renoviert (Energieklasse D)",
+    "url": "https://www.aquamarinarealestate.com/villa-vista-mare-in-vendita-a-bordighera-rv1848",
+    "photo": "https://www.aquamarinarealestate.com/genera_watermark_scheda_big1.php?cod=9985-it-.jpg",
+    "note": "3 Schlafzimmer. Neuere Hälfte einer Zweifamilienvilla in Panoramalage, Portikus mit Meerblick, 65 m² Garage, Keller, bewässerter Garten. Grenzfall: Doppelhaus; älteres Inserat.",
+    "isNew": true,
+    "agency": "Aquamarina Real Estate",
+    "lastChecked": "11.10.2026"
+  },
+  {
+    "id": "civezza-dolcedo-villa-pool-201",
+    "title": "Villa mit Pool und Meerblick (Dolcedo/Civezza)",
+    "town": "Civezza",
+    "price": "€ 1.000.000",
+    "sqm": "290 m²",
+    "plotSqm": "1.640 m² Grundstück",
+    "condition": "Gepflegt, möbliert (Baujahr 2006)",
+    "url": "https://www.engelvoelkers.com/it/de/exposes/c650c3d1-846c-5048-bfc3-6f228cd2744a",
+    "photo": "https://uploadcare.engelvoelkers.com/0f98a044-5968-42c7-8872-32a172f99d85/",
+    "note": "2 Schlafzimmer, 3 Bäder. Großzügige Villa auf zwei Ebenen in erhöhter Lage über den grünen Hügeln mit Blick bis zum Meer; zwei unabhängige Wohnungen (je 1 SZ), großer Garten mit Pool und Pergola, 32 m² Terrasse. Exklusiv bei E&V; genau am Budget-Limit.",
     "isNew": true,
     "agency": "Engel & Völkers",
-    "lastChecked": "01.10.2026"
+    "lastChecked": "11.10.2026"
   }
 ]
